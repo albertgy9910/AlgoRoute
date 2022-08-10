@@ -1,0 +1,2948 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<document> 
+  <instance uuid="c87caeed-de16-4511-a9e2-d7a347ac79e2" created="28.06.2014 14:39:44"> 
+    <settings> 
+      <name>C101</name>  
+      <gamma>1.0</gamma>  
+      <rho>0.0</rho> 
+    </settings>  
+    <dimensions> 
+      <therapists>25</therapists>  
+      <rooms total="101"> 
+        <ward>0</ward>  
+        <tc>0</tc>  
+        <icu>100</icu> 
+      </rooms>  
+      <jobs total="100"> 
+        <ward>0</ward>  
+        <out>0</out>  
+        <icu>100</icu> 
+      </jobs>  
+      <qualifications>5</qualifications> 
+    </dimensions>  
+    <solutions/> 
+  </instance>  
+  <instance uuid="d6ee0bc9-a4d9-4df7-be73-249c0467939b" created="22.02.2017 18:08:49"> 
+    <settings> 
+      <name>C101</name>  
+      <gamma>1.0</gamma>  
+      <rho>0.0</rho> 
+    </settings>  
+    <dimensions> 
+      <therapists>25</therapists>  
+      <rooms total="101"> 
+        <ward>0</ward>  
+        <tc>0</tc>  
+        <icu>100</icu> 
+      </rooms>  
+      <jobs total="100"> 
+        <ward>0</ward>  
+        <out>0</out>  
+        <icu>100</icu> 
+      </jobs>  
+      <qualifications>5</qualifications> 
+    </dimensions>  
+    <solutions/> 
+  </instance>  
+  <instance uuid="1042049c-c375-4642-a2de-1a6753fa1d8c" created="22.02.2017 18:11:19"> 
+    <settings> 
+      <name>C101</name>  
+      <gamma>1.0</gamma>  
+      <rho>0.0</rho> 
+    </settings>  
+    <dimensions> 
+      <therapists>25</therapists>  
+      <rooms total="101"> 
+        <ward>0</ward>  
+        <tc>0</tc>  
+        <icu>100</icu> 
+      </rooms>  
+      <jobs total="100"> 
+        <ward>0</ward>  
+        <out>0</out>  
+        <icu>100</icu> 
+      </jobs>  
+      <qualifications>5</qualifications> 
+    </dimensions>  
+    <solutions> 
+      <solution timestamp="22.02.2017 18:21:35" uuid="843ce4c2-346f-42f3-947d-c8aaff710b72" costs="885.4432909334739"> 
+        <results> 
+          <costs>885.4432909334739</costs>  
+          <usedVehicles>12</usedVehicles>  
+          <time>10:12</time>  
+          <unscheduledJobs>0</unscheduledJobs> 
+        </results>  
+        <config/>  
+        <routes> 
+          <vehicle id="1"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="24" start="75" end="164">24</room>  
+            <room i_r="25" start="169" end="258">25</room>  
+            <room i_r="27" start="261" end="350">27</room>  
+            <room i_r="29" start="358" end="447">29</room>  
+            <room i_r="30" start="453" end="542">30</room>  
+            <room i_r="28" start="546" end="635">28</room>  
+            <room i_r="26" start="638" end="727">26</room>  
+            <room i_r="23" start="774" end="863">23</room>  
+            <room i_r="22" start="869" end="958">22</room>  
+            <room i_r="21" start="961" end="1050">21</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="2"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="67" start="14" end="103">67</room>  
+            <room i_r="65" start="105" end="194">65</room>  
+            <room i_r="63" start="197" end="286">63</room>  
+            <room i_r="62" start="292" end="381">62</room>  
+            <room i_r="74" start="385" end="474">74</room>  
+            <room i_r="72" start="480" end="569">72</room>  
+            <room i_r="61" start="573" end="662">61</room>  
+            <room i_r="64" start="665" end="754">64</room>  
+            <room i_r="68" start="776" end="865">68</room>  
+            <room i_r="66" start="874" end="963">66</room>  
+            <room i_r="69" start="968" end="1057">69</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="3"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="32" start="33" end="122">32</room>  
+            <room i_r="33" start="125" end="214">33</room>  
+            <room i_r="31" start="221" end="310">31</room>  
+            <room i_r="35" start="316" end="405">35</room>  
+            <room i_r="37" start="412" end="501">37</room>  
+            <room i_r="38" start="504" end="593">38</room>  
+            <room i_r="39" start="599" end="688">39</room>  
+            <room i_r="36" start="711" end="800">36</room>  
+            <room i_r="34" start="804" end="893">34</room>  
+            <room i_r="52" start="925" end="1014">52</room>  
+            <room i_r="49" start="1065" end="1154">49</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="4"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="90" start="22" end="111">90</room>  
+            <room i_r="87" start="117" end="206">87</room>  
+            <room i_r="86" start="208" end="297">86</room>  
+            <room i_r="83" start="304" end="393">83</room>  
+            <room i_r="82" start="397" end="486">82</room>  
+            <room i_r="84" start="493" end="582">84</room>  
+            <room i_r="85" start="586" end="675">85</room>  
+            <room i_r="88" start="679" end="768">88</room>  
+            <room i_r="89" start="772" end="861">89</room>  
+            <room i_r="91" start="888" end="977">91</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="5"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="13" start="32" end="121">13</room>  
+            <room i_r="17" start="126" end="215">17</room>  
+            <room i_r="18" start="219" end="308">18</room>  
+            <room i_r="19" start="314" end="403">19</room>  
+            <room i_r="15" start="424" end="513">15</room>  
+            <room i_r="16" start="521" end="610">16</room>  
+            <room i_r="14" start="615" end="704">14</room>  
+            <room i_r="12" start="720" end="809">12</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="8"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="7" start="181" end="270">7</room>  
+            <room i_r="8" start="274" end="363">8</room>  
+            <room i_r="10" start="368" end="457">10</room>  
+            <room i_r="11" start="463" end="552">11</room>  
+            <room i_r="9" start="557" end="646">9</room>  
+            <room i_r="6" start="654" end="743">6</room>  
+            <room i_r="4" start="747" end="836">4</room>  
+            <room i_r="2" start="869" end="958">2</room>  
+            <room i_r="1" start="964" end="1053">1</room>  
+            <room i_r="75" start="1057" end="1146">75</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="17"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="81" start="49" end="138">81</room>  
+            <room i_r="78" start="142" end="231">78</room>  
+            <room i_r="76" start="234" end="323">76</room>  
+            <room i_r="71" start="329" end="418">71</room>  
+            <room i_r="70" start="424" end="513">70</room>  
+            <room i_r="73" start="517" end="606">73</room>  
+            <room i_r="77" start="611" end="700">77</room>  
+            <room i_r="79" start="721" end="810">79</room>  
+            <room i_r="80" start="817" end="906">80</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="18"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="57" start="36" end="125">57</room>  
+            <room i_r="55" start="128" end="217">55</room>  
+            <room i_r="54" start="223" end="312">54</room>  
+            <room i_r="53" start="319" end="408">53</room>  
+            <room i_r="56" start="433" end="522">56</room>  
+            <room i_r="58" start="531" end="620">58</room>  
+            <room i_r="60" start="624" end="713">60</room>  
+            <room i_r="59" start="725" end="814">59</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="19"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="5" start="17" end="106">5</room>  
+            <room i_r="3" start="145" end="234">3</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="22"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="98" start="32" end="121">98</room>  
+            <room i_r="96" start="128" end="217">96</room>  
+            <room i_r="95" start="220" end="309">95</room>  
+            <room i_r="94" start="314" end="403">94</room>  
+            <room i_r="92" start="408" end="497">92</room>  
+            <room i_r="93" start="500" end="589">93</room>  
+            <room i_r="97" start="621" end="710">97</room>  
+            <room i_r="100" start="722" end="811">100</room>  
+            <room i_r="99" start="819" end="908">99</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="23"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="20" start="72" end="161">20</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="24"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="43" start="18" end="107">43</room>  
+            <room i_r="42" start="111" end="200">42</room>  
+            <room i_r="41" start="203" end="292">41</room>  
+            <room i_r="40" start="295" end="384">40</room>  
+            <room i_r="44" start="388" end="477">44</room>  
+            <room i_r="46" start="505" end="594">46</room>  
+            <room i_r="45" start="599" end="688">45</room>  
+            <room i_r="48" start="691" end="780">48</room>  
+            <room i_r="51" start="784" end="873">51</room>  
+            <room i_r="50" start="879" end="968">50</room>  
+            <room i_r="47" start="1125" end="1214">47</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle> 
+        </routes> 
+      </solution> 
+    </solutions> 
+  </instance>  
+  <instance uuid="8b1f3c0d-20c6-4569-b884-9af1215eb9b8" created="22.02.2017 18:21:35"> 
+    <settings> 
+      <name>C102</name>  
+      <gamma>1.0</gamma>  
+      <rho>0.0</rho> 
+    </settings>  
+    <dimensions> 
+      <therapists>25</therapists>  
+      <rooms total="101"> 
+        <ward>0</ward>  
+        <tc>0</tc>  
+        <icu>100</icu> 
+      </rooms>  
+      <jobs total="100"> 
+        <ward>0</ward>  
+        <out>0</out>  
+        <icu>100</icu> 
+      </jobs>  
+      <qualifications>5</qualifications> 
+    </dimensions>  
+    <solutions/> 
+  </instance>  
+  <instance uuid="c024e504-eaca-40ee-8646-3c5e50025498" created="22.02.2017 18:31:26"> 
+    <settings> 
+      <name>C101</name>  
+      <gamma>1.0</gamma>  
+      <rho>0.0</rho> 
+    </settings>  
+    <dimensions> 
+      <therapists>25</therapists>  
+      <rooms total="101"> 
+        <ward>0</ward>  
+        <tc>0</tc>  
+        <icu>100</icu> 
+      </rooms>  
+      <jobs total="100"> 
+        <ward>0</ward>  
+        <out>0</out>  
+        <icu>100</icu> 
+      </jobs>  
+      <qualifications>5</qualifications> 
+    </dimensions>  
+    <solutions/> 
+  </instance>  
+  <instance uuid="e96a89d8-a6e0-4ff8-a1f8-2bbaea7698e8" created="08.04.2017 18:12:40"> 
+    <settings> 
+      <name>C101</name>  
+      <gamma>1.0</gamma>  
+      <rho>0.0</rho> 
+    </settings>  
+    <dimensions> 
+      <therapists>25</therapists>  
+      <rooms total="101"> 
+        <ward>0</ward>  
+        <tc>0</tc>  
+        <icu>100</icu> 
+      </rooms>  
+      <jobs total="100"> 
+        <ward>0</ward>  
+        <out>0</out>  
+        <icu>100</icu> 
+      </jobs>  
+      <qualifications>5</qualifications> 
+    </dimensions>  
+    <solutions/> 
+  </instance>  
+  <instance uuid="485d7057-e8fa-4331-af00-f39a10dd549f" created="08.04.2017 18:18:03"> 
+    <settings> 
+      <name>C101</name>  
+      <gamma>1.0</gamma>  
+      <rho>0.0</rho> 
+    </settings>  
+    <dimensions> 
+      <therapists>25</therapists>  
+      <rooms total="101"> 
+        <ward>0</ward>  
+        <tc>0</tc>  
+        <icu>100</icu> 
+      </rooms>  
+      <jobs total="100"> 
+        <ward>0</ward>  
+        <out>0</out>  
+        <icu>100</icu> 
+      </jobs>  
+      <qualifications>5</qualifications> 
+    </dimensions>  
+    <solutions/> 
+  </instance>  
+  <instance uuid="8186c362-13e1-4074-82a9-7d3ed5f80a87" created="08.04.2017 18:18:15"> 
+    <settings> 
+      <name>C101</name>  
+      <gamma>1.0</gamma>  
+      <rho>0.0</rho> 
+    </settings>  
+    <dimensions> 
+      <therapists>25</therapists>  
+      <rooms total="101"> 
+        <ward>0</ward>  
+        <tc>0</tc>  
+        <icu>100</icu> 
+      </rooms>  
+      <jobs total="100"> 
+        <ward>0</ward>  
+        <out>0</out>  
+        <icu>100</icu> 
+      </jobs>  
+      <qualifications>5</qualifications> 
+    </dimensions>  
+    <solutions/> 
+  </instance>  
+  <instance uuid="05224245-229d-4299-bfdf-893c88907e59" created="08.04.2017 18:21:50"> 
+    <settings> 
+      <name>C101</name>  
+      <gamma>1.0</gamma>  
+      <rho>0.0</rho> 
+    </settings>  
+    <dimensions> 
+      <therapists>25</therapists>  
+      <rooms total="101"> 
+        <ward>0</ward>  
+        <tc>0</tc>  
+        <icu>100</icu> 
+      </rooms>  
+      <jobs total="100"> 
+        <ward>0</ward>  
+        <out>0</out>  
+        <icu>100</icu> 
+      </jobs>  
+      <qualifications>5</qualifications> 
+    </dimensions>  
+    <solutions/> 
+  </instance>  
+  <instance uuid="6b5870cd-3206-4766-9830-4ad878772364" created="08.04.2017 18:28:56"> 
+    <settings> 
+      <name>C101</name>  
+      <gamma>1.0</gamma>  
+      <rho>0.0</rho> 
+    </settings>  
+    <dimensions> 
+      <therapists>25</therapists>  
+      <rooms total="101"> 
+        <ward>0</ward>  
+        <tc>0</tc>  
+        <icu>100</icu> 
+      </rooms>  
+      <jobs total="100"> 
+        <ward>0</ward>  
+        <out>0</out>  
+        <icu>100</icu> 
+      </jobs>  
+      <qualifications>5</qualifications> 
+    </dimensions>  
+    <solutions/> 
+  </instance>  
+  <instance uuid="f13f97f3-3a14-4441-89e9-3786f62d09c8" created="08.04.2017 20:37:23"> 
+    <settings> 
+      <name>C101</name>  
+      <gamma>1.0</gamma>  
+      <rho>0.0</rho> 
+    </settings>  
+    <dimensions> 
+      <therapists>25</therapists>  
+      <rooms total="101"> 
+        <ward>0</ward>  
+        <tc>0</tc>  
+        <icu>100</icu> 
+      </rooms>  
+      <jobs total="100"> 
+        <ward>0</ward>  
+        <out>0</out>  
+        <icu>100</icu> 
+      </jobs>  
+      <qualifications>5</qualifications> 
+    </dimensions>  
+    <solutions/> 
+  </instance>  
+  <instance uuid="64ec5917-4e1c-44ec-b55c-21fbfd47f906" created="08.04.2017 20:47:20"> 
+    <settings> 
+      <name>C101</name>  
+      <gamma>1.0</gamma>  
+      <rho>0.0</rho> 
+    </settings>  
+    <dimensions> 
+      <therapists>25</therapists>  
+      <rooms total="101"> 
+        <ward>0</ward>  
+        <tc>0</tc>  
+        <icu>100</icu> 
+      </rooms>  
+      <jobs total="100"> 
+        <ward>0</ward>  
+        <out>0</out>  
+        <icu>100</icu> 
+      </jobs>  
+      <qualifications>5</qualifications> 
+    </dimensions>  
+    <solutions/> 
+  </instance>  
+  <instance uuid="86d8d4ab-0f13-4012-9982-75125313b99e" created="08.04.2017 21:22:59"> 
+    <settings> 
+      <name>C101</name>  
+      <gamma>1.0</gamma>  
+      <rho>0.0</rho> 
+    </settings>  
+    <dimensions> 
+      <therapists>25</therapists>  
+      <rooms total="101"> 
+        <ward>0</ward>  
+        <tc>0</tc>  
+        <icu>100</icu> 
+      </rooms>  
+      <jobs total="100"> 
+        <ward>0</ward>  
+        <out>0</out>  
+        <icu>100</icu> 
+      </jobs>  
+      <qualifications>5</qualifications> 
+    </dimensions>  
+    <solutions/> 
+  </instance>  
+  <instance uuid="6302a9a6-a833-4dc9-8acb-bc2d93666547" created="08.04.2017 21:30:29"> 
+    <settings> 
+      <name>C101</name>  
+      <gamma>1.0</gamma>  
+      <rho>0.0</rho> 
+    </settings>  
+    <dimensions> 
+      <therapists>25</therapists>  
+      <rooms total="101"> 
+        <ward>0</ward>  
+        <tc>0</tc>  
+        <icu>100</icu> 
+      </rooms>  
+      <jobs total="100"> 
+        <ward>0</ward>  
+        <out>0</out>  
+        <icu>100</icu> 
+      </jobs>  
+      <qualifications>5</qualifications> 
+    </dimensions>  
+    <solutions/> 
+  </instance>  
+  <instance uuid="a1d4fd3e-b07c-455a-b927-0c3fff090809" created="08.04.2017 21:47:33"> 
+    <settings> 
+      <name>C101</name>  
+      <gamma>1.0</gamma>  
+      <rho>0.0</rho> 
+    </settings>  
+    <dimensions> 
+      <therapists>25</therapists>  
+      <rooms total="101"> 
+        <ward>0</ward>  
+        <tc>0</tc>  
+        <icu>100</icu> 
+      </rooms>  
+      <jobs total="100"> 
+        <ward>0</ward>  
+        <out>0</out>  
+        <icu>100</icu> 
+      </jobs>  
+      <qualifications>5</qualifications> 
+    </dimensions>  
+    <solutions/> 
+  </instance>  
+  <instance uuid="2daf9fb7-579c-4ae2-b0c5-5fcef4bd6698" created="08.04.2017 21:58:57"> 
+    <settings> 
+      <name>C101</name>  
+      <gamma>1.0</gamma>  
+      <rho>0.0</rho> 
+    </settings>  
+    <dimensions> 
+      <therapists>25</therapists>  
+      <rooms total="101"> 
+        <ward>0</ward>  
+        <tc>0</tc>  
+        <icu>100</icu> 
+      </rooms>  
+      <jobs total="100"> 
+        <ward>0</ward>  
+        <out>0</out>  
+        <icu>100</icu> 
+      </jobs>  
+      <qualifications>5</qualifications> 
+    </dimensions>  
+    <solutions/> 
+  </instance>  
+  <instance uuid="e5f03bed-ad5e-49f5-8f5d-2399cd1c2969" created="08.04.2017 22:00:47"> 
+    <settings> 
+      <name>C101</name>  
+      <gamma>1.0</gamma>  
+      <rho>0.0</rho> 
+    </settings>  
+    <dimensions> 
+      <therapists>25</therapists>  
+      <rooms total="101"> 
+        <ward>0</ward>  
+        <tc>0</tc>  
+        <icu>100</icu> 
+      </rooms>  
+      <jobs total="100"> 
+        <ward>0</ward>  
+        <out>0</out>  
+        <icu>100</icu> 
+      </jobs>  
+      <qualifications>5</qualifications> 
+    </dimensions>  
+    <solutions/> 
+  </instance>  
+  <instance uuid="f815adc2-1980-4976-9147-ef2eafde399c" created="08.04.2017 22:02:02"> 
+    <settings> 
+      <name>C101</name>  
+      <gamma>1.0</gamma>  
+      <rho>0.0</rho> 
+    </settings>  
+    <dimensions> 
+      <therapists>25</therapists>  
+      <rooms total="101"> 
+        <ward>0</ward>  
+        <tc>0</tc>  
+        <icu>100</icu> 
+      </rooms>  
+      <jobs total="100"> 
+        <ward>0</ward>  
+        <out>0</out>  
+        <icu>100</icu> 
+      </jobs>  
+      <qualifications>5</qualifications> 
+    </dimensions>  
+    <solutions/> 
+  </instance>  
+  <instance uuid="f2731652-39fd-497b-9dca-2509efd13c4b" created="08.04.2017 22:41:28"> 
+    <settings> 
+      <name>C101</name>  
+      <gamma>1.0</gamma>  
+      <rho>0.0</rho> 
+    </settings>  
+    <dimensions> 
+      <therapists>25</therapists>  
+      <rooms total="101"> 
+        <ward>0</ward>  
+        <tc>0</tc>  
+        <icu>100</icu> 
+      </rooms>  
+      <jobs total="100"> 
+        <ward>0</ward>  
+        <out>0</out>  
+        <icu>100</icu> 
+      </jobs>  
+      <qualifications>5</qualifications> 
+    </dimensions>  
+    <solutions/> 
+  </instance>  
+  <instance uuid="39cd8e7e-e879-42dd-8d0e-c51e820a0f70" created="14.04.2021 21:24:13"> 
+    <settings> 
+      <name>C101</name>  
+      <gamma>1.0</gamma>  
+      <rho>0.0</rho> 
+    </settings>  
+    <dimensions> 
+      <therapists>25</therapists>  
+      <rooms total="101"> 
+        <ward>0</ward>  
+        <tc>0</tc>  
+        <icu>100</icu> 
+      </rooms>  
+      <jobs total="100"> 
+        <ward>0</ward>  
+        <out>0</out>  
+        <icu>100</icu> 
+      </jobs>  
+      <qualifications>5</qualifications> 
+    </dimensions>  
+    <solutions/> 
+  </instance>  
+  <instance uuid="2056aa18-5d18-4961-91e7-f668c736dc53" created="15.04.2021 08:53:29"> 
+    <settings> 
+      <name>C101</name>  
+      <gamma>1.0</gamma>  
+      <rho>0.0</rho> 
+    </settings>  
+    <dimensions> 
+      <therapists>25</therapists>  
+      <rooms total="101"> 
+        <ward>0</ward>  
+        <tc>0</tc>  
+        <icu>100</icu> 
+      </rooms>  
+      <jobs total="100"> 
+        <ward>0</ward>  
+        <out>0</out>  
+        <icu>100</icu> 
+      </jobs>  
+      <qualifications>5</qualifications> 
+    </dimensions>  
+    <solutions/> 
+  </instance>  
+  <instance uuid="dff83c54-a1c7-4103-95be-2b30275911e3" created="15.04.2021 09:00:09"> 
+    <settings> 
+      <name>C101</name>  
+      <gamma>1.0</gamma>  
+      <rho>0.0</rho> 
+    </settings>  
+    <dimensions> 
+      <therapists>25</therapists>  
+      <rooms total="101"> 
+        <ward>0</ward>  
+        <tc>0</tc>  
+        <icu>100</icu> 
+      </rooms>  
+      <jobs total="100"> 
+        <ward>0</ward>  
+        <out>0</out>  
+        <icu>100</icu> 
+      </jobs>  
+      <qualifications>5</qualifications> 
+    </dimensions>  
+    <solutions/> 
+  </instance>  
+  <instance uuid="7b634654-a60c-40ff-bd86-5002b3eaa918" created="16.05.2021 16:41:37"> 
+    <settings> 
+      <name>C101</name>  
+      <gamma>1.0</gamma>  
+      <rho>0.0</rho> 
+    </settings>  
+    <dimensions> 
+      <therapists>25</therapists>  
+      <rooms total="101"> 
+        <ward>0</ward>  
+        <tc>0</tc>  
+        <icu>100</icu> 
+      </rooms>  
+      <jobs total="100"> 
+        <ward>0</ward>  
+        <out>0</out>  
+        <icu>100</icu> 
+      </jobs>  
+      <qualifications>5</qualifications> 
+    </dimensions>  
+    <solutions/> 
+  </instance>  
+  <instance uuid="367295d6-c646-4cdd-ae31-80d3906853f6" created="17.05.2021 10:52:21"> 
+    <settings> 
+      <name>C101</name>  
+      <gamma>1.0</gamma>  
+      <rho>0.0</rho> 
+    </settings>  
+    <dimensions> 
+      <therapists>25</therapists>  
+      <rooms total="101"> 
+        <ward>0</ward>  
+        <tc>0</tc>  
+        <icu>100</icu> 
+      </rooms>  
+      <jobs total="100"> 
+        <ward>0</ward>  
+        <out>0</out>  
+        <icu>100</icu> 
+      </jobs>  
+      <qualifications>5</qualifications> 
+    </dimensions>  
+    <solutions/> 
+  </instance>  
+  <instance uuid="65dabdbe-51b8-4454-9112-58fba4cb469e" created="17.05.2021 11:12:35"> 
+    <settings> 
+      <name>C101</name>  
+      <gamma>1.0</gamma>  
+      <rho>0.0</rho> 
+    </settings>  
+    <dimensions> 
+      <therapists>25</therapists>  
+      <rooms total="101"> 
+        <ward>0</ward>  
+        <tc>0</tc>  
+        <icu>100</icu> 
+      </rooms>  
+      <jobs total="100"> 
+        <ward>0</ward>  
+        <out>0</out>  
+        <icu>100</icu> 
+      </jobs>  
+      <qualifications>5</qualifications> 
+    </dimensions>  
+    <solutions/> 
+  </instance>  
+  <instance uuid="934901c0-6a17-4e1b-a389-bfed782a4fc6" created="17.05.2021 11:15:40"> 
+    <settings> 
+      <name>C101</name>  
+      <gamma>1.0</gamma>  
+      <rho>0.0</rho> 
+    </settings>  
+    <dimensions> 
+      <therapists>25</therapists>  
+      <rooms total="101"> 
+        <ward>0</ward>  
+        <tc>0</tc>  
+        <icu>100</icu> 
+      </rooms>  
+      <jobs total="100"> 
+        <ward>0</ward>  
+        <out>0</out>  
+        <icu>100</icu> 
+      </jobs>  
+      <qualifications>5</qualifications> 
+    </dimensions>  
+    <solutions/> 
+  </instance>  
+  <instance uuid="04138896-0704-4b32-b75e-b8b9b58162ca" created="17.05.2021 11:33:06"> 
+    <settings> 
+      <name>C101</name>  
+      <gamma>1.0</gamma>  
+      <rho>0.0</rho> 
+    </settings>  
+    <dimensions> 
+      <therapists>25</therapists>  
+      <rooms total="101"> 
+        <ward>0</ward>  
+        <tc>0</tc>  
+        <icu>100</icu> 
+      </rooms>  
+      <jobs total="100"> 
+        <ward>0</ward>  
+        <out>0</out>  
+        <icu>100</icu> 
+      </jobs>  
+      <qualifications>5</qualifications> 
+    </dimensions>  
+    <solutions/> 
+  </instance>  
+  <instance uuid="eeb8c357-516a-4ecf-8120-27778ee869aa" created="17.05.2021 13:53:43"> 
+    <settings> 
+      <name>C101</name>  
+      <gamma>1.0</gamma>  
+      <rho>0.0</rho> 
+    </settings>  
+    <dimensions> 
+      <therapists>25</therapists>  
+      <rooms total="101"> 
+        <ward>0</ward>  
+        <tc>0</tc>  
+        <icu>100</icu> 
+      </rooms>  
+      <jobs total="100"> 
+        <ward>0</ward>  
+        <out>0</out>  
+        <icu>100</icu> 
+      </jobs>  
+      <qualifications>5</qualifications> 
+    </dimensions>  
+    <solutions/> 
+  </instance>  
+  <instance uuid="e44d1877-55c8-42dc-b902-1747c62b6b10" created="17.05.2021 14:02:37"> 
+    <settings> 
+      <name>R101</name>  
+      <gamma>1.0</gamma>  
+      <rho>0.0</rho> 
+    </settings>  
+    <dimensions> 
+      <therapists>25</therapists>  
+      <rooms total="101"> 
+        <ward>0</ward>  
+        <tc>0</tc>  
+        <icu>100</icu> 
+      </rooms>  
+      <jobs total="100"> 
+        <ward>0</ward>  
+        <out>0</out>  
+        <icu>100</icu> 
+      </jobs>  
+      <qualifications>5</qualifications> 
+    </dimensions>  
+    <solutions> 
+      <solution timestamp="17.05.2021 14:13:12" uuid="814fea4d-bf0f-4057-8679-743960fff702" costs="1738.8099516871812"> 
+        <results> 
+          <costs>1738.8099516871812</costs>  
+          <usedVehicles>21</usedVehicles>  
+          <time>10:28</time>  
+          <unscheduledJobs>0</unscheduledJobs> 
+        </results>  
+        <config/>  
+        <routes> 
+          <vehicle id="1"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="63" start="43" end="52">63</room>  
+            <room i_r="64" start="82" end="91">64</room>  
+            <room i_r="49" start="117" end="126">49</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="2"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="31" start="57" end="66">31</room>  
+            <room i_r="88" start="74" end="83">88</room>  
+            <room i_r="6" start="108" end="117">6</room>  
+            <room i_r="89" start="185" end="194">89</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="3"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="62" start="58" end="67">62</room>  
+            <room i_r="11" start="77" end="86">11</room>  
+            <room i_r="90" start="99" end="108">90</room>  
+            <room i_r="20" start="135" end="144">20</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="4"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="52" start="52" end="61">52</room>  
+            <room i_r="99" start="83" end="92">99</room>  
+            <room i_r="85" start="100" end="109">85</room>  
+            <room i_r="37" start="142" end="151">37</room>  
+            <room i_r="91" start="160" end="169">91</room>  
+            <room i_r="100" start="185" end="194">100</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="5"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="14" start="34" end="43">14</room>  
+            <room i_r="44" start="69" end="78">44</room>  
+            <room i_r="38" start="90" end="99">38</room>  
+            <room i_r="43" start="141" end="150">43</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="6"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="36" start="43" end="52">36</room>  
+            <room i_r="47" start="60" end="69">47</room>  
+            <room i_r="19" start="85" end="94">19</room>  
+            <room i_r="10" start="124" end="133">10</room>  
+            <room i_r="70" start="182" end="191">70</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="7"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="65" start="53" end="62">65</room>  
+            <room i_r="71" start="79" end="88">71</room>  
+            <room i_r="9" start="100" end="109">9</room>  
+            <room i_r="66" start="127" end="136">66</room>  
+            <room i_r="32" start="152" end="161">32</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="8"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="59" start="19" end="28">59</room>  
+            <room i_r="5" start="43" end="52">5</room>  
+            <room i_r="61" start="76" end="85">61</room>  
+            <room i_r="87" start="104" end="113">87</room>  
+            <room i_r="97" start="133" end="142">97</room>  
+            <room i_r="13" start="159" end="168">13</room>  
+            <room i_r="58" start="208" end="217">58</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="10"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="39" start="53" end="62">39</room>  
+            <room i_r="75" start="75" end="84">75</room>  
+            <room i_r="22" start="106" end="115">22</room>  
+            <room i_r="56" start="137" end="146">56</room>  
+            <room i_r="4" start="156" end="165">4</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="11"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="92" start="20" end="29">92</room>  
+            <room i_r="42" start="41" end="50">42</room>  
+            <room i_r="15" start="70" end="79">15</room>  
+            <room i_r="57" start="101" end="110">57</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="12"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="45" start="32" end="41">45</room>  
+            <room i_r="83" start="51" end="60">83</room>  
+            <room i_r="18" start="87" end="96">18</room>  
+            <room i_r="84" start="110" end="119">84</room>  
+            <room i_r="60" start="162" end="171">60</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="13"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="33" start="37" end="46">33</room>  
+            <room i_r="29" start="63" end="72">29</room>  
+            <room i_r="78" start="105" end="114">78</room>  
+            <room i_r="34" start="124" end="133">34</room>  
+            <room i_r="35" start="147" end="156">35</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="14"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="40" start="85" end="94">40</room>  
+            <room i_r="53" start="104" end="113">53</room>  
+            <room i_r="26" start="132" end="141">26</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="15"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="2" start="50" end="59">2</room>  
+            <room i_r="21" start="71" end="80">21</room>  
+            <room i_r="73" start="87" end="96">73</room>  
+            <room i_r="41" start="108" end="117">41</room>  
+            <room i_r="74" start="149" end="158">74</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="17"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="82" start="55" end="64">82</room>  
+            <room i_r="7" start="81" end="90">7</room>  
+            <room i_r="8" start="104" end="113">8</room>  
+            <room i_r="46" start="126" end="135">46</room>  
+            <room i_r="48" start="165" end="174">48</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="19"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="27" start="37" end="46">27</room>  
+            <room i_r="69" start="59" end="68">69</room>  
+            <room i_r="81" start="94" end="103">81</room>  
+            <room i_r="3" start="125" end="134">3</room>  
+            <room i_r="68" start="151" end="160">68</room>  
+            <room i_r="77" start="188" end="197">77</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="21"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="30" start="71" end="80">30</room>  
+            <room i_r="51" start="91" end="100">51</room>  
+            <room i_r="50" start="133" end="142">50</room>  
+            <room i_r="1" start="170" end="179">1</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="22"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="95" start="39" end="48">95</room>  
+            <room i_r="98" start="62" end="71">98</room>  
+            <room i_r="16" start="82" end="91">16</room>  
+            <room i_r="86" start="103" end="112">86</room>  
+            <room i_r="17" start="157" end="166">17</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="23"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="94" start="109" end="118">94</room>  
+            <room i_r="96" start="144" end="153">96</room>  
+            <room i_r="93" start="197" end="206">93</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="24"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="28" start="41" end="50">28</room>  
+            <room i_r="12" start="63" end="72">12</room>  
+            <room i_r="76" start="81" end="90">76</room>  
+            <room i_r="79" start="101" end="110">79</room>  
+            <room i_r="54" start="140" end="149">54</room>  
+            <room i_r="24" start="160" end="169">24</room>  
+            <room i_r="80" start="182" end="191">80</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="25"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="72" start="35" end="44">72</room>  
+            <room i_r="23" start="68" end="77">23</room>  
+            <room i_r="67" start="90" end="99">67</room>  
+            <room i_r="55" start="145" end="154">55</room>  
+            <room i_r="25" start="181" end="190">25</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle> 
+        </routes> 
+      </solution>  
+      <solution timestamp="17.05.2021 14:13:12" uuid="d66c047e-7767-4dd4-8947-47746ce0c76b" costs="1737.3591952820807"> 
+        <results> 
+          <costs>1737.3591952820807</costs>  
+          <usedVehicles>20</usedVehicles>  
+          <time>10:34</time>  
+          <unscheduledJobs>0</unscheduledJobs> 
+        </results>  
+        <config/>  
+        <routes> 
+          <vehicle id="1"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="72" start="44" end="53">72</room>  
+            <room i_r="75" start="69" end="78">75</room>  
+            <room i_r="22" start="106" end="115">22</room>  
+            <room i_r="56" start="137" end="146">56</room>  
+            <room i_r="4" start="158" end="167">4</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="2"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="62" start="58" end="67">62</room>  
+            <room i_r="88" start="75" end="84">88</room>  
+            <room i_r="7" start="92" end="101">7</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="3"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="65" start="56" end="65">65</room>  
+            <room i_r="71" start="79" end="88">71</room>  
+            <room i_r="9" start="100" end="109">9</room>  
+            <room i_r="66" start="127" end="136">66</room>  
+            <room i_r="32" start="152" end="161">32</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="4"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="40" start="85" end="94">40</room>  
+            <room i_r="53" start="104" end="113">53</room>  
+            <room i_r="26" start="132" end="141">26</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="5"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="27" start="37" end="46">27</room>  
+            <room i_r="52" start="61" end="70">52</room>  
+            <room i_r="6" start="108" end="117">6</room>  
+            <room i_r="96" start="144" end="153">96</room>  
+            <room i_r="89" start="185" end="194">89</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="6"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="92" start="23" end="32">92</room>  
+            <room i_r="95" start="39" end="48">95</room>  
+            <room i_r="98" start="58" end="67">98</room>  
+            <room i_r="99" start="90" end="99">99</room>  
+            <room i_r="94" start="109" end="118">94</room>  
+            <room i_r="97" start="133" end="142">97</room>  
+            <room i_r="13" start="168" end="177">13</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="7"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="36" start="43" end="52">36</room>  
+            <room i_r="47" start="60" end="69">47</room>  
+            <room i_r="8" start="95" end="104">8</room>  
+            <room i_r="46" start="126" end="135">46</room>  
+            <room i_r="48" start="174" end="183">48</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="8"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="2" start="50" end="59">2</room>  
+            <room i_r="21" start="71" end="80">21</room>  
+            <room i_r="73" start="85" end="94">73</room>  
+            <room i_r="41" start="106" end="115">41</room>  
+            <room i_r="74" start="149" end="158">74</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="10"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="28" start="39" end="48">28</room>  
+            <room i_r="12" start="63" end="72">12</room>  
+            <room i_r="76" start="81" end="90">76</room>  
+            <room i_r="79" start="100" end="109">79</room>  
+            <room i_r="3" start="116" end="125">3</room>  
+            <room i_r="54" start="143" end="152">54</room>  
+            <room i_r="24" start="163" end="172">24</room>  
+            <room i_r="80" start="191" end="200">80</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="11"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="59" start="22" end="31">59</room>  
+            <room i_r="5" start="41" end="50">5</room>  
+            <room i_r="61" start="76" end="85">61</room>  
+            <room i_r="85" start="100" end="109">85</room>  
+            <room i_r="37" start="134" end="143">37</room>  
+            <room i_r="91" start="169" end="178">91</room>  
+            <room i_r="100" start="185" end="194">100</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="12"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="42" start="31" end="40">42</room>  
+            <room i_r="15" start="67" end="76">15</room>  
+            <room i_r="87" start="93" end="102">87</room>  
+            <room i_r="57" start="110" end="119">57</room>  
+            <room i_r="58" start="200" end="209">58</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="13"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="33" start="37" end="46">33</room>  
+            <room i_r="29" start="63" end="72">29</room>  
+            <room i_r="81" start="94" end="103">81</room>  
+            <room i_r="20" start="126" end="135">20</room>  
+            <room i_r="1" start="161" end="170">1</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="14"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="39" start="47" end="56">39</room>  
+            <room i_r="23" start="68" end="77">23</room>  
+            <room i_r="67" start="92" end="101">67</room>  
+            <room i_r="55" start="145" end="154">55</room>  
+            <room i_r="25" start="181" end="190">25</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="15"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="14" start="41" end="50">14</room>  
+            <room i_r="44" start="69" end="78">44</room>  
+            <room i_r="38" start="90" end="99">38</room>  
+            <room i_r="43" start="132" end="141">43</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="18"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="69" start="50" end="59">69</room>  
+            <room i_r="30" start="74" end="83">30</room>  
+            <room i_r="51" start="97" end="106">51</room>  
+            <room i_r="50" start="124" end="133">50</room>  
+            <room i_r="68" start="147" end="156">68</room>  
+            <room i_r="77" start="188" end="197">77</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="19"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="64" start="73" end="82">64</room>  
+            <room i_r="90" start="104" end="113">90</room>  
+            <room i_r="10" start="133" end="142">10</room>  
+            <room i_r="70" start="182" end="191">70</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="21"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="83" start="53" end="62">83</room>  
+            <room i_r="16" start="81" end="90">16</room>  
+            <room i_r="86" start="103" end="112">86</room>  
+            <room i_r="17" start="166" end="175">17</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="22"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="45" start="39" end="48">45</room>  
+            <room i_r="82" start="64" end="73">82</room>  
+            <room i_r="18" start="87" end="96">18</room>  
+            <room i_r="84" start="110" end="119">84</room>  
+            <room i_r="60" start="162" end="171">60</room>  
+            <room i_r="93" start="197" end="206">93</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="24"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="31" start="59" end="68">31</room>  
+            <room i_r="78" start="105" end="114">78</room>  
+            <room i_r="34" start="120" end="129">34</room>  
+            <room i_r="35" start="152" end="161">35</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="25"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="63" start="36" end="45">63</room>  
+            <room i_r="11" start="67" end="76">11</room>  
+            <room i_r="19" start="85" end="94">19</room>  
+            <room i_r="49" start="117" end="126">49</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle> 
+        </routes> 
+      </solution>  
+      <solution timestamp="17.05.2021 14:13:12" uuid="663f18df-3474-46b3-a58b-7695e978ef52" costs="1734.1712830997499"> 
+        <results> 
+          <costs>1734.1712830997499</costs>  
+          <usedVehicles>21</usedVehicles>  
+          <time>09:02</time>  
+          <unscheduledJobs>0</unscheduledJobs> 
+        </results>  
+        <config/>  
+        <routes> 
+          <vehicle id="1"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="33" start="37" end="46">33</room>  
+            <room i_r="51" start="88" end="97">51</room>  
+            <room i_r="9" start="106" end="115">9</room>  
+            <room i_r="66" start="136" end="145">66</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="2"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="63" start="36" end="45">63</room>  
+            <room i_r="62" start="58" end="67">62</room>  
+            <room i_r="11" start="77" end="86">11</room>  
+            <room i_r="90" start="104" end="113">90</room>  
+            <room i_r="10" start="124" end="133">10</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="3"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="40" start="85" end="94">40</room>  
+            <room i_r="53" start="104" end="113">53</room>  
+            <room i_r="26" start="132" end="141">26</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="4"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="82" start="64" end="73">82</room>  
+            <room i_r="18" start="87" end="96">18</room>  
+            <room i_r="6" start="108" end="117">6</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="5"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="47" start="55" end="64">47</room>  
+            <room i_r="19" start="76" end="85">19</room>  
+            <room i_r="8" start="104" end="113">8</room>  
+            <room i_r="46" start="126" end="135">46</room>  
+            <room i_r="48" start="165" end="174">48</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="6"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="28" start="39" end="48">28</room>  
+            <room i_r="12" start="63" end="72">12</room>  
+            <room i_r="76" start="81" end="90">76</room>  
+            <room i_r="79" start="101" end="110">79</room>  
+            <room i_r="50" start="133" end="142">50</room>  
+            <room i_r="1" start="170" end="179">1</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="7"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="36" start="43" end="52">36</room>  
+            <room i_r="64" start="82" end="91">64</room>  
+            <room i_r="49" start="108" end="117">49</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="8"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="92" start="25" end="34">92</room>  
+            <room i_r="95" start="39" end="48">95</room>  
+            <room i_r="98" start="58" end="67">98</room>  
+            <room i_r="16" start="84" end="93">16</room>  
+            <room i_r="86" start="103" end="112">86</room>  
+            <room i_r="91" start="160" end="169">91</room>  
+            <room i_r="100" start="193" end="202">100</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="10"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="27" start="37" end="46">27</room>  
+            <room i_r="52" start="55" end="64">52</room>  
+            <room i_r="87" start="93" end="102">87</room>  
+            <room i_r="57" start="111" end="120">57</room>  
+            <room i_r="97" start="142" end="151">97</room>  
+            <room i_r="13" start="159" end="168">13</room>  
+            <room i_r="58" start="208" end="217">58</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="11"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="65" start="51" end="60">65</room>  
+            <room i_r="71" start="77" end="86">71</room>  
+            <room i_r="81" start="102" end="111">81</room>  
+            <room i_r="3" start="125" end="134">3</room>  
+            <room i_r="68" start="151" end="160">68</room>  
+            <room i_r="77" start="188" end="197">77</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="12"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="59" start="20" end="29">59</room>  
+            <room i_r="5" start="41" end="50">5</room>  
+            <room i_r="61" start="76" end="85">61</room>  
+            <room i_r="85" start="91" end="100">85</room>  
+            <room i_r="37" start="143" end="152">37</room>  
+            <room i_r="93" start="197" end="206">93</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="13"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="69" start="50" end="59">69</room>  
+            <room i_r="88" start="74" end="83">88</room>  
+            <room i_r="7" start="90" end="99">7</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="14"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="2" start="50" end="59">2</room>  
+            <room i_r="21" start="71" end="80">21</room>  
+            <room i_r="73" start="87" end="96">73</room>  
+            <room i_r="54" start="140" end="149">54</room>  
+            <room i_r="24" start="160" end="169">24</room>  
+            <room i_r="80" start="191" end="200">80</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="15"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="72" start="35" end="44">72</room>  
+            <room i_r="75" start="78" end="87">75</room>  
+            <room i_r="22" start="97" end="106">22</room>  
+            <room i_r="74" start="158" end="167">74</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="17"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="99" start="83" end="92">99</room>  
+            <room i_r="94" start="100" end="109">94</room>  
+            <room i_r="96" start="135" end="144">96</room>  
+            <room i_r="60" start="162" end="171">60</room>  
+            <room i_r="89" start="185" end="194">89</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="19"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="42" start="31" end="40">42</room>  
+            <room i_r="15" start="70" end="79">15</room>  
+            <room i_r="41" start="97" end="106">41</room>  
+            <room i_r="56" start="130" end="139">56</room>  
+            <room i_r="4" start="149" end="158">4</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="21"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="39" start="47" end="56">39</room>  
+            <room i_r="23" start="68" end="77">23</room>  
+            <room i_r="67" start="90" end="99">67</room>  
+            <room i_r="55" start="145" end="154">55</room>  
+            <room i_r="25" start="172" end="181">25</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="22"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="45" start="32" end="41">45</room>  
+            <room i_r="83" start="53" end="62">83</room>  
+            <room i_r="84" start="101" end="110">84</room>  
+            <room i_r="17" start="157" end="166">17</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="23"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="31" start="50" end="59">31</room>  
+            <room i_r="30" start="80" end="89">30</room>  
+            <room i_r="20" start="127" end="136">20</room>  
+            <room i_r="32" start="150" end="159">32</room>  
+            <room i_r="70" start="182" end="191">70</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="24"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="29" start="63" end="72">29</room>  
+            <room i_r="78" start="96" end="105">78</room>  
+            <room i_r="34" start="126" end="135">34</room>  
+            <room i_r="35" start="152" end="161">35</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle>  
+          <vehicle id="25"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="14" start="41" end="50">14</room>  
+            <room i_r="44" start="69" end="78">44</room>  
+            <room i_r="38" start="90" end="99">38</room>  
+            <room i_r="43" start="132" end="141">43</room>  
+            <room start="230" end="230">0</room> 
+          </vehicle> 
+        </routes> 
+      </solution> 
+    </solutions> 
+  </instance>  
+  <instance uuid="caa352bb-a654-40b7-b355-9a36eaf2d4e9" created="17.05.2021 14:26:27"> 
+    <settings> 
+      <name>C101</name>  
+      <gamma>1.0</gamma>  
+      <rho>0.0</rho> 
+    </settings>  
+    <dimensions> 
+      <therapists>25</therapists>  
+      <rooms total="101"> 
+        <ward>0</ward>  
+        <tc>0</tc>  
+        <icu>100</icu> 
+      </rooms>  
+      <jobs total="100"> 
+        <ward>0</ward>  
+        <out>0</out>  
+        <icu>100</icu> 
+      </jobs>  
+      <qualifications>5</qualifications> 
+    </dimensions>  
+    <solutions> 
+      <solution timestamp="17.05.2021 14:42:29" uuid="1d52f1ec-208b-4e2e-9360-e49c4a2e4be7" costs="914.0321126611391"> 
+        <results> 
+          <costs>914.0321126611391</costs>  
+          <usedVehicles>12</usedVehicles>  
+          <time>13:35</time>  
+          <unscheduledJobs>0</unscheduledJobs> 
+        </results>  
+        <config/>  
+        <routes> 
+          <vehicle id="1"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="81" start="49" end="138">81</room>  
+            <room i_r="78" start="142" end="231">78</room>  
+            <room i_r="76" start="234" end="323">76</room>  
+            <room i_r="71" start="336" end="425">71</room>  
+            <room i_r="70" start="431" end="520">70</room>  
+            <room i_r="73" start="524" end="613">73</room>  
+            <room i_r="77" start="622" end="711">77</room>  
+            <room i_r="79" start="721" end="810">79</room>  
+            <room i_r="80" start="819" end="908">80</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="2"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="20" start="72" end="161">20</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="6"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="32" start="32" end="121">32</room>  
+            <room i_r="33" start="126" end="215">33</room>  
+            <room i_r="31" start="224" end="313">31</room>  
+            <room i_r="35" start="319" end="408">35</room>  
+            <room i_r="37" start="425" end="514">37</room>  
+            <room i_r="38" start="517" end="606">38</room>  
+            <room i_r="39" start="618" end="707">39</room>  
+            <room i_r="36" start="715" end="804">36</room>  
+            <room i_r="34" start="813" end="902">34</room>  
+            <room i_r="52" start="925" end="1014">52</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="7"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="13" start="32" end="121">13</room>  
+            <room i_r="17" start="126" end="215">17</room>  
+            <room i_r="18" start="219" end="308">18</room>  
+            <room i_r="19" start="314" end="403">19</room>  
+            <room i_r="15" start="428" end="517">15</room>  
+            <room i_r="16" start="523" end="612">16</room>  
+            <room i_r="14" start="619" end="708">14</room>  
+            <room i_r="12" start="712" end="801">12</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="8"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="90" start="22" end="111">90</room>  
+            <room i_r="87" start="117" end="206">87</room>  
+            <room i_r="86" start="208" end="297">86</room>  
+            <room i_r="83" start="304" end="393">83</room>  
+            <room i_r="82" start="396" end="485">82</room>  
+            <room i_r="84" start="492" end="581">84</room>  
+            <room i_r="85" start="585" end="674">85</room>  
+            <room i_r="88" start="678" end="767">88</room>  
+            <room i_r="89" start="771" end="860">89</room>  
+            <room i_r="91" start="888" end="977">91</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="11"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="96" start="102" end="191">96</room>  
+            <room i_r="95" start="196" end="285">95</room>  
+            <room i_r="94" start="290" end="379">94</room>  
+            <room i_r="92" start="384" end="473">92</room>  
+            <room i_r="93" start="476" end="565">93</room>  
+            <room i_r="97" start="571" end="660">97</room>  
+            <room i_r="100" start="722" end="811">100</room>  
+            <room i_r="99" start="819" end="908">99</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="12"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="43" start="19" end="108">43</room>  
+            <room i_r="42" start="114" end="203">42</room>  
+            <room i_r="41" start="208" end="297">41</room>  
+            <room i_r="40" start="302" end="391">40</room>  
+            <room i_r="44" start="395" end="484">44</room>  
+            <room i_r="46" start="488" end="577">46</room>  
+            <room i_r="45" start="584" end="673">45</room>  
+            <room i_r="48" start="676" end="765">48</room>  
+            <room i_r="51" start="784" end="873">51</room>  
+            <room i_r="50" start="879" end="968">50</room>  
+            <room i_r="49" start="1001" end="1090">49</room>  
+            <room i_r="47" start="1093" end="1182">47</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="13"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="5" start="17" end="106">5</room>  
+            <room i_r="3" start="108" end="197">3</room>  
+            <room i_r="7" start="218" end="307">7</room>  
+            <room i_r="8" start="313" end="402">8</room>  
+            <room i_r="10" start="407" end="496">10</room>  
+            <room i_r="11" start="502" end="591">11</room>  
+            <room i_r="9" start="596" end="685">9</room>  
+            <room i_r="6" start="689" end="778">6</room>  
+            <room i_r="4" start="781" end="870">4</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="15"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="67" start="14" end="103">67</room>  
+            <room i_r="65" start="105" end="194">65</room>  
+            <room i_r="63" start="197" end="286">63</room>  
+            <room i_r="62" start="292" end="381">62</room>  
+            <room i_r="74" start="385" end="474">74</room>  
+            <room i_r="72" start="480" end="569">72</room>  
+            <room i_r="61" start="573" end="662">61</room>  
+            <room i_r="64" start="665" end="754">64</room>  
+            <room i_r="68" start="764" end="853">68</room>  
+            <room i_r="66" start="862" end="951">66</room>  
+            <room i_r="69" start="968" end="1057">69</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="19"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="98" start="32" end="121">98</room>  
+            <room i_r="2" start="825" end="914">2</room>  
+            <room i_r="1" start="917" end="1006">1</room>  
+            <room i_r="75" start="1010" end="1099">75</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="22"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="24" start="65" end="154">24</room>  
+            <room i_r="25" start="169" end="258">25</room>  
+            <room i_r="27" start="261" end="350">27</room>  
+            <room i_r="29" start="358" end="447">29</room>  
+            <room i_r="30" start="453" end="542">30</room>  
+            <room i_r="28" start="546" end="635">28</room>  
+            <room i_r="26" start="637" end="726">26</room>  
+            <room i_r="23" start="775" end="864">23</room>  
+            <room i_r="22" start="870" end="959">22</room>  
+            <room i_r="21" start="964" end="1053">21</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="25"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="57" start="36" end="125">57</room>  
+            <room i_r="55" start="128" end="217">55</room>  
+            <room i_r="54" start="223" end="312">54</room>  
+            <room i_r="53" start="319" end="408">53</room>  
+            <room i_r="56" start="413" end="502">56</room>  
+            <room i_r="58" start="505" end="594">58</room>  
+            <room i_r="60" start="614" end="703">60</room>  
+            <room i_r="59" start="715" end="804">59</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle> 
+        </routes> 
+      </solution>  
+      <solution timestamp="17.05.2021 14:42:29" uuid="8a4e0355-96e9-4292-875f-dcef485e76cd" costs="910.0998220949207"> 
+        <results> 
+          <costs>910.0998220949207</costs>  
+          <usedVehicles>11</usedVehicles>  
+          <time>15:59</time>  
+          <unscheduledJobs>0</unscheduledJobs> 
+        </results>  
+        <config/>  
+        <routes> 
+          <vehicle id="1"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="57" start="36" end="125">57</room>  
+            <room i_r="55" start="138" end="227">55</room>  
+            <room i_r="54" start="235" end="324">54</room>  
+            <room i_r="53" start="333" end="422">53</room>  
+            <room i_r="56" start="429" end="518">56</room>  
+            <room i_r="58" start="533" end="622">58</room>  
+            <room i_r="60" start="628" end="717">60</room>  
+            <room i_r="59" start="739" end="828">59</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="2"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="67" start="14" end="103">67</room>  
+            <room i_r="65" start="105" end="194">65</room>  
+            <room i_r="63" start="197" end="286">63</room>  
+            <room i_r="62" start="292" end="381">62</room>  
+            <room i_r="74" start="387" end="476">74</room>  
+            <room i_r="72" start="484" end="573">72</room>  
+            <room i_r="61" start="577" end="666">61</room>  
+            <room i_r="64" start="677" end="766">64</room>  
+            <room i_r="68" start="772" end="861">68</room>  
+            <room i_r="66" start="870" end="959">66</room>  
+            <room i_r="69" start="962" end="1051">69</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="6"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="98" start="32" end="121">98</room>  
+            <room i_r="96" start="128" end="217">96</room>  
+            <room i_r="95" start="229" end="318">95</room>  
+            <room i_r="94" start="325" end="414">94</room>  
+            <room i_r="92" start="423" end="512">92</room>  
+            <room i_r="93" start="517" end="606">93</room>  
+            <room i_r="97" start="621" end="710">97</room>  
+            <room i_r="100" start="722" end="811">100</room>  
+            <room i_r="99" start="819" end="908">99</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="7"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="87" start="85" end="174">87</room>  
+            <room i_r="86" start="176" end="265">86</room>  
+            <room i_r="83" start="272" end="361">83</room>  
+            <room i_r="82" start="369" end="458">82</room>  
+            <room i_r="84" start="507" end="596">84</room>  
+            <room i_r="85" start="602" end="691">85</room>  
+            <room i_r="88" start="695" end="784">88</room>  
+            <room i_r="89" start="788" end="877">89</room>  
+            <room i_r="91" start="882" end="971">91</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="8"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="90" start="22" end="111">90</room>  
+            <room i_r="7" start="170" end="259">7</room>  
+            <room i_r="8" start="263" end="352">8</room>  
+            <room i_r="10" start="357" end="446">10</room>  
+            <room i_r="11" start="450" end="539">11</room>  
+            <room i_r="9" start="571" end="660">9</room>  
+            <room i_r="6" start="666" end="755">6</room>  
+            <room i_r="4" start="761" end="850">4</room>  
+            <room i_r="2" start="855" end="944">2</room>  
+            <room i_r="1" start="947" end="1036">1</room>  
+            <room i_r="75" start="1040" end="1129">75</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="11"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="20" start="11" end="100">20</room>  
+            <room i_r="24" start="106" end="195">24</room>  
+            <room i_r="27" start="261" end="350">27</room>  
+            <room i_r="29" start="358" end="447">29</room>  
+            <room i_r="30" start="484" end="573">30</room>  
+            <room i_r="28" start="577" end="666">28</room>  
+            <room i_r="26" start="681" end="770">26</room>  
+            <room i_r="23" start="776" end="865">23</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="12"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="5" start="17" end="106">5</room>  
+            <room i_r="3" start="108" end="197">3</room>  
+            <room i_r="25" start="223" end="312">25</room>  
+            <room i_r="22" start="812" end="901">22</room>  
+            <room i_r="21" start="914" end="1003">21</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="13"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="13" start="32" end="121">13</room>  
+            <room i_r="17" start="126" end="215">17</room>  
+            <room i_r="18" start="219" end="308">18</room>  
+            <room i_r="19" start="333" end="422">19</room>  
+            <room i_r="15" start="428" end="517">15</room>  
+            <room i_r="16" start="523" end="612">16</room>  
+            <room i_r="14" start="617" end="706">14</room>  
+            <room i_r="12" start="712" end="801">12</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="15"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="43" start="18" end="107">43</room>  
+            <room i_r="42" start="111" end="200">42</room>  
+            <room i_r="41" start="203" end="292">41</room>  
+            <room i_r="40" start="295" end="384">40</room>  
+            <room i_r="44" start="388" end="477">44</room>  
+            <room i_r="46" start="481" end="570">46</room>  
+            <room i_r="45" start="573" end="662">45</room>  
+            <room i_r="48" start="665" end="754">48</room>  
+            <room i_r="51" start="758" end="847">51</room>  
+            <room i_r="50" start="851" end="940">50</room>  
+            <room i_r="49" start="1001" end="1090">49</room>  
+            <room i_r="47" start="1093" end="1182">47</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="22"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="81" start="49" end="138">81</room>  
+            <room i_r="78" start="142" end="231">78</room>  
+            <room i_r="76" start="241" end="330">76</room>  
+            <room i_r="71" start="338" end="427">71</room>  
+            <room i_r="70" start="433" end="522">70</room>  
+            <room i_r="73" start="528" end="617">73</room>  
+            <room i_r="77" start="624" end="713">77</room>  
+            <room i_r="79" start="717" end="806">79</room>  
+            <room i_r="80" start="813" end="902">80</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="25"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="32" start="33" end="122">32</room>  
+            <room i_r="33" start="125" end="214">33</room>  
+            <room i_r="31" start="221" end="310">31</room>  
+            <room i_r="35" start="316" end="405">35</room>  
+            <room i_r="37" start="412" end="501">37</room>  
+            <room i_r="38" start="504" end="593">38</room>  
+            <room i_r="39" start="608" end="697">39</room>  
+            <room i_r="36" start="715" end="804">36</room>  
+            <room i_r="34" start="815" end="904">34</room>  
+            <room i_r="52" start="968" end="1057">52</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle> 
+        </routes> 
+      </solution>  
+      <solution timestamp="17.05.2021 14:42:29" uuid="7f2bb9b2-e66e-4372-85a1-517d066be993" costs="878.9409615262381"> 
+        <results> 
+          <costs>878.9409615262381</costs>  
+          <usedVehicles>12</usedVehicles>  
+          <time>15:58</time>  
+          <unscheduledJobs>0</unscheduledJobs> 
+        </results>  
+        <config/>  
+        <routes> 
+          <vehicle id="1"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="81" start="49" end="138">81</room>  
+            <room i_r="78" start="142" end="231">78</room>  
+            <room i_r="76" start="234" end="323">76</room>  
+            <room i_r="71" start="329" end="418">71</room>  
+            <room i_r="70" start="424" end="513">70</room>  
+            <room i_r="73" start="517" end="606">73</room>  
+            <room i_r="77" start="628" end="717">77</room>  
+            <room i_r="79" start="719" end="808">79</room>  
+            <room i_r="80" start="815" end="904">80</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="2"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="90" start="22" end="111">90</room>  
+            <room i_r="87" start="117" end="206">87</room>  
+            <room i_r="86" start="208" end="297">86</room>  
+            <room i_r="83" start="310" end="399">83</room>  
+            <room i_r="82" start="405" end="494">82</room>  
+            <room i_r="84" start="503" end="592">84</room>  
+            <room i_r="85" start="602" end="691">85</room>  
+            <room i_r="88" start="697" end="786">88</room>  
+            <room i_r="89" start="792" end="881">89</room>  
+            <room i_r="91" start="888" end="977">91</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="6"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="32" start="33" end="122">32</room>  
+            <room i_r="33" start="125" end="214">33</room>  
+            <room i_r="31" start="221" end="310">31</room>  
+            <room i_r="35" start="316" end="405">35</room>  
+            <room i_r="37" start="412" end="501">37</room>  
+            <room i_r="38" start="504" end="593">38</room>  
+            <room i_r="39" start="599" end="688">39</room>  
+            <room i_r="36" start="694" end="783">36</room>  
+            <room i_r="34" start="787" end="876">34</room>  
+            <room i_r="52" start="912" end="1001">52</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="7"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="43" start="18" end="107">43</room>  
+            <room i_r="42" start="111" end="200">42</room>  
+            <room i_r="41" start="203" end="292">41</room>  
+            <room i_r="40" start="295" end="384">40</room>  
+            <room i_r="44" start="388" end="477">44</room>  
+            <room i_r="46" start="481" end="570">46</room>  
+            <room i_r="45" start="573" end="662">45</room>  
+            <room i_r="48" start="665" end="754">48</room>  
+            <room i_r="51" start="780" end="869">51</room>  
+            <room i_r="50" start="873" end="962">50</room>  
+            <room i_r="49" start="1001" end="1090">49</room>  
+            <room i_r="47" start="1125" end="1214">47</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="8"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="5" start="17" end="106">5</room>  
+            <room i_r="3" start="108" end="197">3</room>  
+            <room i_r="7" start="200" end="289">7</room>  
+            <room i_r="8" start="293" end="382">8</room>  
+            <room i_r="10" start="387" end="476">10</room>  
+            <room i_r="11" start="480" end="569">11</room>  
+            <room i_r="9" start="573" end="662">9</room>  
+            <room i_r="6" start="666" end="755">6</room>  
+            <room i_r="4" start="759" end="848">4</room>  
+            <room i_r="2" start="867" end="956">2</room>  
+            <room i_r="1" start="961" end="1050">1</room>  
+            <room i_r="75" start="1067" end="1156">75</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="11"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="57" start="36" end="125">57</room>  
+            <room i_r="55" start="128" end="217">55</room>  
+            <room i_r="54" start="223" end="312">54</room>  
+            <room i_r="53" start="319" end="408">53</room>  
+            <room i_r="56" start="435" end="524">56</room>  
+            <room i_r="58" start="531" end="620">58</room>  
+            <room i_r="60" start="626" end="715">60</room>  
+            <room i_r="59" start="729" end="818">59</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="12"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="20" start="11" end="100">20</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="13"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="13" start="32" end="121">13</room>  
+            <room i_r="17" start="126" end="215">17</room>  
+            <room i_r="18" start="222" end="311">18</room>  
+            <room i_r="19" start="317" end="406">19</room>  
+            <room i_r="15" start="412" end="501">15</room>  
+            <room i_r="16" start="507" end="596">16</room>  
+            <room i_r="14" start="601" end="690">14</room>  
+            <room i_r="12" start="696" end="785">12</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="15"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="65" start="76" end="165">65</room>  
+            <room i_r="63" start="171" end="260">63</room>  
+            <room i_r="62" start="296" end="385">62</room>  
+            <room i_r="74" start="391" end="480">74</room>  
+            <room i_r="72" start="488" end="577">72</room>  
+            <room i_r="61" start="583" end="672">61</room>  
+            <room i_r="64" start="677" end="766">64</room>  
+            <room i_r="68" start="776" end="865">68</room>  
+            <room i_r="66" start="872" end="961">66</room>  
+            <room i_r="69" start="968" end="1057">69</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="19"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="67" start="14" end="103">67</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="22"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="98" start="32" end="121">98</room>  
+            <room i_r="96" start="127" end="216">96</room>  
+            <room i_r="95" start="219" end="308">95</room>  
+            <room i_r="94" start="313" end="402">94</room>  
+            <room i_r="92" start="407" end="496">92</room>  
+            <room i_r="93" start="499" end="588">93</room>  
+            <room i_r="97" start="594" end="683">97</room>  
+            <room i_r="100" start="689" end="778">100</room>  
+            <room i_r="99" start="819" end="908">99</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="25"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="24" start="75" end="164">24</room>  
+            <room i_r="25" start="169" end="258">25</room>  
+            <room i_r="27" start="261" end="350">27</room>  
+            <room i_r="29" start="358" end="447">29</room>  
+            <room i_r="30" start="453" end="542">30</room>  
+            <room i_r="28" start="546" end="635">28</room>  
+            <room i_r="26" start="637" end="726">26</room>  
+            <room i_r="23" start="732" end="821">23</room>  
+            <room i_r="22" start="825" end="914">22</room>  
+            <room i_r="21" start="964" end="1053">21</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle> 
+        </routes> 
+      </solution> 
+    </solutions> 
+  </instance>  
+  <instance uuid="9ed4aaa3-4592-47c6-861f-976c4b6a94e3" created="17.05.2021 15:14:08"> 
+    <settings> 
+      <name>RC101</name>  
+      <gamma>1.0</gamma>  
+      <rho>0.0</rho> 
+    </settings>  
+    <dimensions> 
+      <therapists>25</therapists>  
+      <rooms total="101"> 
+        <ward>0</ward>  
+        <tc>0</tc>  
+        <icu>100</icu> 
+      </rooms>  
+      <jobs total="100"> 
+        <ward>0</ward>  
+        <out>0</out>  
+        <icu>100</icu> 
+      </jobs>  
+      <qualifications>5</qualifications> 
+    </dimensions>  
+    <solutions> 
+      <solution timestamp="17.05.2021 15:22:32" uuid="84a48fde-de25-4c82-89e2-fc3d2cee2d32" costs="1765.6204359271594"> 
+        <results> 
+          <costs>1765.6204359271594</costs>  
+          <usedVehicles>18</usedVehicles>  
+          <time>08:21</time>  
+          <unscheduledJobs>0</unscheduledJobs> 
+        </results>  
+        <config/>  
+        <routes> 
+          <vehicle id="1"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="73" start="77" end="86">73</room>  
+            <room i_r="79" start="96" end="105">79</room>  
+            <room i_r="78" start="119" end="128">78</room>  
+            <room i_r="60" start="184" end="193">60</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="2"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="90" start="86" end="95">90</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="3"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="2" start="61" end="70">2</room>  
+            <room i_r="7" start="80" end="89">7</room>  
+            <room i_r="6" start="95" end="104">6</room>  
+            <room i_r="8" start="120" end="129">8</room>  
+            <room i_r="46" start="142" end="151">46</room>  
+            <room i_r="4" start="154" end="163">4</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="5"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="42" start="50" end="59">42</room>  
+            <room i_r="44" start="64" end="73">44</room>  
+            <room i_r="61" start="95" end="104">61</room>  
+            <room i_r="81" start="115" end="124">81</room>  
+            <room i_r="68" start="144" end="153">68</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="6"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="69" start="41" end="50">69</room>  
+            <room i_r="98" start="75" end="84">98</room>  
+            <room i_r="88" start="92" end="101">88</room>  
+            <room i_r="53" start="111" end="120">53</room>  
+            <room i_r="55" start="145" end="154">55</room>  
+            <room i_r="100" start="191" end="200">100</room>  
+            <room i_r="70" start="208" end="217">70</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="7"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="63" start="41" end="50">63</room>  
+            <room i_r="76" start="75" end="84">76</room>  
+            <room i_r="51" start="103" end="112">51</room>  
+            <room i_r="84" start="123" end="132">84</room>  
+            <room i_r="56" start="147" end="156">56</room>  
+            <room i_r="91" start="167" end="176">91</room>  
+            <room i_r="80" start="192" end="201">80</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="8"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="65" start="13" end="22">65</room>  
+            <room i_r="83" start="35" end="44">83</room>  
+            <room i_r="64" start="54" end="63">64</room>  
+            <room i_r="99" start="104" end="113">99</room>  
+            <room i_r="57" start="127" end="136">57</room>  
+            <room i_r="66" start="162" end="171">66</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="10"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="33" start="53" end="62">33</room>  
+            <room i_r="30" start="74" end="83">30</room>  
+            <room i_r="28" start="91" end="100">28</room>  
+            <room i_r="26" start="140" end="149">26</room>  
+            <room i_r="32" start="160" end="169">32</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="11"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="14" start="37" end="46">14</room>  
+            <room i_r="47" start="50" end="59">47</room>  
+            <room i_r="16" start="72" end="81">16</room>  
+            <room i_r="15" start="84" end="93">15</room>  
+            <room i_r="10" start="132" end="141">10</room>  
+            <room i_r="13" start="150" end="159">13</room>  
+            <room i_r="17" start="178" end="187">17</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="12"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="92" start="16" end="25">92</room>  
+            <room i_r="95" start="34" end="43">95</room>  
+            <room i_r="62" start="81" end="90">62</room>  
+            <room i_r="85" start="104" end="113">85</room>  
+            <room i_r="89" start="173" end="182">89</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="13"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="39" start="38" end="47">39</room>  
+            <room i_r="36" start="57" end="66">36</room>  
+            <room i_r="38" start="75" end="84">38</room>  
+            <room i_r="41" start="92" end="101">41</room>  
+            <room i_r="40" start="113" end="122">40</room>  
+            <room i_r="43" start="129" end="138">43</room>  
+            <room i_r="37" start="150" end="159">37</room>  
+            <room i_r="35" start="168" end="177">35</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="14"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="27" start="62" end="71">27</room>  
+            <room i_r="29" start="77" end="86">29</room>  
+            <room i_r="31" start="89" end="98">31</room>  
+            <room i_r="34" start="111" end="120">34</room>  
+            <room i_r="50" start="145" end="154">50</room>  
+            <room i_r="93" start="206" end="215">93</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="15"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="72" start="42" end="51">72</room>  
+            <room i_r="71" start="65" end="74">71</room>  
+            <room i_r="67" start="89" end="98">67</room>  
+            <room i_r="94" start="113" end="122">94</room>  
+            <room i_r="96" start="132" end="141">96</room>  
+            <room i_r="54" start="168" end="177">54</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="19"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="82" start="41" end="50">82</room>  
+            <room i_r="52" start="65" end="74">52</room>  
+            <room i_r="86" start="87" end="96">86</room>  
+            <room i_r="22" start="119" end="128">22</room>  
+            <room i_r="49" start="133" end="142">49</room>  
+            <room i_r="20" start="146" end="155">20</room>  
+            <room i_r="24" start="177" end="186">24</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="21"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="59" start="44" end="53">59</room>  
+            <room i_r="75" start="94" end="103">75</room>  
+            <room i_r="97" start="120" end="129">97</room>  
+            <room i_r="58" start="152" end="161">58</room>  
+            <room i_r="77" start="173" end="182">77</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="22"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="12" start="64" end="73">12</room>  
+            <room i_r="11" start="79" end="88">11</room>  
+            <room i_r="9" start="95" end="104">9</room>  
+            <room i_r="87" start="117" end="126">87</room>  
+            <room i_r="74" start="170" end="179">74</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="24"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="23" start="65" end="74">23</room>  
+            <room i_r="21" start="80" end="89">21</room>  
+            <room i_r="19" start="96" end="105">19</room>  
+            <room i_r="18" start="114" end="123">18</room>  
+            <room i_r="48" start="151" end="160">48</room>  
+            <room i_r="25" start="182" end="191">25</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="25"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="45" start="39" end="48">45</room>  
+            <room i_r="5" start="70" end="79">5</room>  
+            <room i_r="3" start="109" end="118">3</room>  
+            <room i_r="1" start="174" end="183">1</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle> 
+        </routes> 
+      </solution>  
+      <solution timestamp="17.05.2021 15:22:32" uuid="2c97a1d1-4d6d-4ab0-9aed-c184b71fed99" costs="1764.2800028590889"> 
+        <results> 
+          <costs>1764.2800028590889</costs>  
+          <usedVehicles>18</usedVehicles>  
+          <time>08:18</time>  
+          <unscheduledJobs>0</unscheduledJobs> 
+        </results>  
+        <config/>  
+        <routes> 
+          <vehicle id="1"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="11" start="59" end="68">11</room>  
+            <room i_r="15" start="79" end="88">15</room>  
+            <room i_r="16" start="93" end="102">16</room>  
+            <room i_r="9" start="117" end="126">9</room>  
+            <room i_r="10" start="132" end="141">10</room>  
+            <room i_r="13" start="152" end="161">13</room>  
+            <room i_r="17" start="178" end="187">17</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="2"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="2" start="50" end="59">2</room>  
+            <room i_r="7" start="79" end="88">7</room>  
+            <room i_r="6" start="95" end="104">6</room>  
+            <room i_r="79" start="119" end="128">79</room>  
+            <room i_r="68" start="173" end="182">68</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="3"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="23" start="82" end="91">23</room>  
+            <room i_r="21" start="96" end="105">21</room>  
+            <room i_r="18" start="116" end="125">18</room>  
+            <room i_r="48" start="163" end="172">48</room>  
+            <room i_r="25" start="180" end="189">25</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="5"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="71" start="65" end="74">71</room>  
+            <room i_r="67" start="89" end="98">67</room>  
+            <room i_r="94" start="124" end="133">94</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="6"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="45" start="55" end="64">45</room>  
+            <room i_r="5" start="70" end="79">5</room>  
+            <room i_r="8" start="98" end="107">8</room>  
+            <room i_r="46" start="113" end="122">46</room>  
+            <room i_r="3" start="136" end="145">3</room>  
+            <room i_r="1" start="151" end="160">1</room>  
+            <room i_r="4" start="169" end="178">4</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="7"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="14" start="37" end="46">14</room>  
+            <room i_r="47" start="49" end="58">47</room>  
+            <room i_r="12" start="67" end="76">12</room>  
+            <room i_r="78" start="90" end="99">78</room>  
+            <room i_r="73" start="108" end="117">73</room>  
+            <room i_r="60" start="155" end="164">60</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="8"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="92" start="16" end="25">92</room>  
+            <room i_r="95" start="34" end="43">95</room>  
+            <room i_r="62" start="78" end="87">62</room>  
+            <room i_r="85" start="103" end="112">85</room>  
+            <room i_r="89" start="173" end="182">89</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="10"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="61" start="66" end="75">61</room>  
+            <room i_r="81" start="86" end="95">81</room>  
+            <room i_r="90" start="115" end="124">90</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="11"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="39" start="38" end="47">39</room>  
+            <room i_r="36" start="70" end="79">36</room>  
+            <room i_r="40" start="85" end="94">40</room>  
+            <room i_r="38" start="102" end="111">38</room>  
+            <room i_r="41" start="121" end="130">41</room>  
+            <room i_r="54" start="147" end="156">54</room>  
+            <room i_r="96" start="163" end="172">96</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="12"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="65" start="13" end="22">65</room>  
+            <room i_r="82" start="42" end="51">82</room>  
+            <room i_r="99" start="77" end="86">99</room>  
+            <room i_r="57" start="125" end="134">57</room>  
+            <room i_r="66" start="162" end="171">66</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="13"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="27" start="62" end="71">27</room>  
+            <room i_r="29" start="77" end="86">29</room>  
+            <room i_r="31" start="89" end="98">31</room>  
+            <room i_r="34" start="111" end="120">34</room>  
+            <room i_r="50" start="145" end="154">50</room>  
+            <room i_r="93" start="178" end="187">93</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="14"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="69" start="56" end="65">69</room>  
+            <room i_r="98" start="71" end="80">98</room>  
+            <room i_r="88" start="88" end="97">88</room>  
+            <room i_r="53" start="107" end="116">53</room>  
+            <room i_r="55" start="140" end="149">55</room>  
+            <room i_r="100" start="180" end="189">100</room>  
+            <room i_r="70" start="195" end="204">70</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="15"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="83" start="35" end="44">83</room>  
+            <room i_r="64" start="54" end="63">64</room>  
+            <room i_r="19" start="89" end="98">19</room>  
+            <room i_r="49" start="103" end="112">49</room>  
+            <room i_r="22" start="117" end="126">22</room>  
+            <room i_r="20" start="131" end="140">20</room>  
+            <room i_r="24" start="148" end="157">24</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="19"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="33" start="53" end="62">33</room>  
+            <room i_r="30" start="74" end="83">30</room>  
+            <room i_r="28" start="91" end="100">28</room>  
+            <room i_r="26" start="115" end="124">26</room>  
+            <room i_r="32" start="133" end="142">32</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="22"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="52" start="78" end="87">52</room>  
+            <room i_r="86" start="98" end="107">86</room>  
+            <room i_r="87" start="119" end="128">87</room>  
+            <room i_r="74" start="170" end="179">74</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="23"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="63" start="53" end="62">63</room>  
+            <room i_r="76" start="75" end="84">76</room>  
+            <room i_r="51" start="95" end="104">51</room>  
+            <room i_r="84" start="115" end="124">84</room>  
+            <room i_r="56" start="159" end="168">56</room>  
+            <room i_r="91" start="192" end="201">91</room>  
+            <room i_r="80" start="208" end="217">80</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="24"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="59" start="46" end="55">59</room>  
+            <room i_r="75" start="74" end="83">75</room>  
+            <room i_r="97" start="120" end="129">97</room>  
+            <room i_r="58" start="151" end="160">58</room>  
+            <room i_r="77" start="172" end="181">77</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="25"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="72" start="33" end="42">72</room>  
+            <room i_r="42" start="62" end="71">42</room>  
+            <room i_r="44" start="93" end="102">44</room>  
+            <room i_r="43" start="128" end="137">43</room>  
+            <room i_r="37" start="153" end="162">37</room>  
+            <room i_r="35" start="168" end="177">35</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle> 
+        </routes> 
+      </solution>  
+      <solution timestamp="17.05.2021 15:22:32" uuid="e7f52fb4-317a-4411-a75d-903f20c7e6b5" costs="1749.5358079846615"> 
+        <results> 
+          <costs>1749.5358079846615</costs>  
+          <usedVehicles>18</usedVehicles>  
+          <time>07:31</time>  
+          <unscheduledJobs>0</unscheduledJobs> 
+        </results>  
+        <config/>  
+        <routes> 
+          <vehicle id="1"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="82" start="42" end="51">82</room>  
+            <room i_r="12" start="72" end="81">12</room>  
+            <room i_r="11" start="88" end="97">11</room>  
+            <room i_r="9" start="120" end="129">9</room>  
+            <room i_r="10" start="135" end="144">10</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="2"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="73" start="77" end="86">73</room>  
+            <room i_r="79" start="96" end="105">79</room>  
+            <room i_r="78" start="119" end="128">78</room>  
+            <room i_r="60" start="155" end="164">60</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="3"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="61" start="66" end="75">61</room>  
+            <room i_r="81" start="86" end="95">81</room>  
+            <room i_r="90" start="115" end="124">90</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="5"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="64" start="53" end="62">64</room>  
+            <room i_r="51" start="82" end="91">51</room>  
+            <room i_r="76" start="104" end="113">76</room>  
+            <room i_r="89" start="173" end="182">89</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="6"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="31" start="60" end="69">31</room>  
+            <room i_r="29" start="74" end="83">29</room>  
+            <room i_r="27" start="89" end="98">27</room>  
+            <room i_r="26" start="140" end="149">26</room>  
+            <room i_r="32" start="160" end="169">32</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="7"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="14" start="37" end="46">14</room>  
+            <room i_r="47" start="68" end="77">47</room>  
+            <room i_r="15" start="85" end="94">15</room>  
+            <room i_r="16" start="97" end="106">16</room>  
+            <room i_r="17" start="149" end="158">17</room>  
+            <room i_r="13" start="171" end="180">13</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="8"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="2" start="50" end="59">2</room>  
+            <room i_r="7" start="79" end="88">7</room>  
+            <room i_r="6" start="95" end="104">6</room>  
+            <room i_r="8" start="111" end="120">8</room>  
+            <room i_r="46" start="136" end="145">46</room>  
+            <room i_r="4" start="150" end="159">4</room>  
+            <room i_r="100" start="180" end="189">100</room>  
+            <room i_r="70" start="208" end="217">70</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="10"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="23" start="65" end="74">23</room>  
+            <room i_r="21" start="77" end="86">21</room>  
+            <room i_r="19" start="96" end="105">19</room>  
+            <room i_r="18" start="114" end="123">18</room>  
+            <room i_r="48" start="151" end="160">48</room>  
+            <room i_r="25" start="182" end="191">25</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="11"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="65" start="13" end="22">65</room>  
+            <room i_r="52" start="59" end="68">52</room>  
+            <room i_r="99" start="77" end="86">99</room>  
+            <room i_r="86" start="100" end="109">86</room>  
+            <room i_r="87" start="119" end="128">87</room>  
+            <room i_r="74" start="170" end="179">74</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="12"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="72" start="30" end="39">72</room>  
+            <room i_r="42" start="62" end="71">42</room>  
+            <room i_r="44" start="74" end="83">44</room>  
+            <room i_r="43" start="128" end="137">43</room>  
+            <room i_r="37" start="152" end="161">37</room>  
+            <room i_r="35" start="166" end="175">35</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="13"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="69" start="41" end="50">69</room>  
+            <room i_r="98" start="75" end="84">98</room>  
+            <room i_r="88" start="92" end="101">88</room>  
+            <room i_r="53" start="111" end="120">53</room>  
+            <room i_r="55" start="140" end="149">55</room>  
+            <room i_r="68" start="160" end="169">68</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="14"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="39" start="38" end="47">39</room>  
+            <room i_r="36" start="56" end="65">36</room>  
+            <room i_r="40" start="85" end="94">40</room>  
+            <room i_r="38" start="102" end="111">38</room>  
+            <room i_r="41" start="121" end="130">41</room>  
+            <room i_r="54" start="147" end="156">54</room>  
+            <room i_r="96" start="163" end="172">96</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="15"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="45" start="39" end="48">45</room>  
+            <room i_r="5" start="52" end="61">5</room>  
+            <room i_r="3" start="109" end="118">3</room>  
+            <room i_r="1" start="174" end="183">1</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="19"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="59" start="44" end="53">59</room>  
+            <room i_r="75" start="100" end="109">75</room>  
+            <room i_r="97" start="126" end="135">97</room>  
+            <room i_r="58" start="152" end="161">58</room>  
+            <room i_r="77" start="173" end="182">77</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="22"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="95" start="48" end="57">95</room>  
+            <room i_r="67" start="70" end="79">67</room>  
+            <room i_r="71" start="94" end="103">71</room>  
+            <room i_r="94" start="115" end="124">94</room>  
+            <room i_r="93" start="178" end="187">93</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="23"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="63" start="41" end="50">63</room>  
+            <room i_r="62" start="66" end="75">62</room>  
+            <room i_r="85" start="89" end="98">85</room>  
+            <room i_r="84" start="110" end="119">84</room>  
+            <room i_r="56" start="130" end="139">56</room>  
+            <room i_r="66" start="150" end="159">66</room>  
+            <room i_r="91" start="196" end="205">91</room>  
+            <room i_r="80" start="212" end="221">80</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="24"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="83" start="35" end="44">83</room>  
+            <room i_r="57" start="96" end="105">57</room>  
+            <room i_r="22" start="121" end="130">22</room>  
+            <room i_r="49" start="135" end="144">49</room>  
+            <room i_r="20" start="151" end="160">20</room>  
+            <room i_r="24" start="177" end="186">24</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle>  
+          <vehicle id="25"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="92" start="16" end="25">92</room>  
+            <room i_r="33" start="66" end="75">33</room>  
+            <room i_r="28" start="85" end="94">28</room>  
+            <room i_r="30" start="103" end="112">30</room>  
+            <room i_r="34" start="119" end="128">34</room>  
+            <room i_r="50" start="145" end="154">50</room>  
+            <room start="240" end="240">0</room> 
+          </vehicle> 
+        </routes> 
+      </solution> 
+    </solutions> 
+  </instance>  
+  <instance uuid="dffdb1a4-d7a6-4ae4-b912-ed49b725f654" created="24.05.2021 19:22:21"> 
+    <settings> 
+      <name>C101</name>  
+      <gamma>1.0</gamma>  
+      <rho>0.0</rho> 
+    </settings>  
+    <dimensions> 
+      <therapists>25</therapists>  
+      <rooms total="101"> 
+        <ward>0</ward>  
+        <tc>0</tc>  
+        <icu>100</icu> 
+      </rooms>  
+      <jobs total="100"> 
+        <ward>0</ward>  
+        <out>0</out>  
+        <icu>100</icu> 
+      </jobs>  
+      <qualifications>5</qualifications> 
+    </dimensions>  
+    <solutions> 
+      <solution timestamp="24.05.2021 19:38:04" uuid="64969fa9-de69-4a2b-a17a-737b1e17aaec" costs="916.7949669858809"> 
+        <results> 
+          <costs>916.7949669858809</costs>  
+          <usedVehicles>12</usedVehicles>  
+          <time>14:10</time>  
+          <unscheduledJobs>0</unscheduledJobs> 
+        </results>  
+        <config/>  
+        <routes> 
+          <vehicle id="1"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="32" start="33" end="122">32</room>  
+            <room i_r="33" start="125" end="214">33</room>  
+            <room i_r="31" start="221" end="310">31</room>  
+            <room i_r="35" start="316" end="405">35</room>  
+            <room i_r="37" start="412" end="501">37</room>  
+            <room i_r="38" start="504" end="593">38</room>  
+            <room i_r="39" start="599" end="688">39</room>  
+            <room i_r="36" start="694" end="783">36</room>  
+            <room i_r="34" start="815" end="904">34</room>  
+            <room i_r="52" start="968" end="1057">52</room>  
+            <room i_r="49" start="1061" end="1150">49</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="2"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="67" start="14" end="103">67</room>  
+            <room i_r="65" start="105" end="194">65</room>  
+            <room i_r="63" start="197" end="286">63</room>  
+            <room i_r="62" start="292" end="381">62</room>  
+            <room i_r="74" start="385" end="474">74</room>  
+            <room i_r="72" start="480" end="569">72</room>  
+            <room i_r="61" start="573" end="662">61</room>  
+            <room i_r="64" start="665" end="754">64</room>  
+            <room i_r="68" start="776" end="865">68</room>  
+            <room i_r="66" start="874" end="963">66</room>  
+            <room i_r="69" start="968" end="1057">69</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="6"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="5" start="17" end="106">5</room>  
+            <room i_r="3" start="108" end="197">3</room>  
+            <room i_r="7" start="200" end="289">7</room>  
+            <room i_r="8" start="293" end="382">8</room>  
+            <room i_r="10" start="387" end="476">10</room>  
+            <room i_r="11" start="480" end="569">11</room>  
+            <room i_r="9" start="574" end="663">9</room>  
+            <room i_r="6" start="667" end="756">6</room>  
+            <room i_r="4" start="760" end="849">4</room>  
+            <room i_r="2" start="854" end="943">2</room>  
+            <room i_r="1" start="959" end="1048">1</room>  
+            <room i_r="75" start="1052" end="1141">75</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="7"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="20" start="72" end="161">20</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="8"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="57" start="36" end="125">57</room>  
+            <room i_r="55" start="128" end="217">55</room>  
+            <room i_r="54" start="223" end="312">54</room>  
+            <room i_r="53" start="319" end="408">53</room>  
+            <room i_r="56" start="413" end="502">56</room>  
+            <room i_r="58" start="505" end="594">58</room>  
+            <room i_r="60" start="626" end="715">60</room>  
+            <room i_r="59" start="729" end="818">59</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="11"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="13" start="32" end="121">13</room>  
+            <room i_r="17" start="126" end="215">17</room>  
+            <room i_r="18" start="219" end="308">18</room>  
+            <room i_r="19" start="314" end="403">19</room>  
+            <room i_r="15" start="409" end="498">15</room>  
+            <room i_r="16" start="525" end="614">16</room>  
+            <room i_r="14" start="617" end="706">14</room>  
+            <room i_r="12" start="710" end="799">12</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="12"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="81" start="49" end="138">81</room>  
+            <room i_r="78" start="147" end="236">78</room>  
+            <room i_r="76" start="239" end="328">76</room>  
+            <room i_r="71" start="334" end="423">71</room>  
+            <room i_r="70" start="429" end="518">70</room>  
+            <room i_r="73" start="528" end="617">73</room>  
+            <room i_r="77" start="622" end="711">77</room>  
+            <room i_r="79" start="721" end="810">79</room>  
+            <room i_r="80" start="817" end="906">80</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="13"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="24" start="65" end="154">24</room>  
+            <room i_r="25" start="169" end="258">25</room>  
+            <room i_r="27" start="261" end="350">27</room>  
+            <room i_r="29" start="390" end="479">29</room>  
+            <room i_r="30" start="487" end="576">30</room>  
+            <room i_r="28" start="582" end="671">28</room>  
+            <room i_r="26" start="674" end="763">26</room>  
+            <room i_r="23" start="771" end="860">23</room>  
+            <room i_r="22" start="868" end="957">22</room>  
+            <room i_r="21" start="960" end="1049">21</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="15"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="98" start="32" end="121">98</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="19"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="96" start="95" end="184">96</room>  
+            <room i_r="95" start="196" end="285">95</room>  
+            <room i_r="94" start="305" end="394">94</room>  
+            <room i_r="92" start="399" end="488">92</room>  
+            <room i_r="93" start="493" end="582">93</room>  
+            <room i_r="97" start="588" end="677">97</room>  
+            <room i_r="100" start="722" end="811">100</room>  
+            <room i_r="99" start="819" end="908">99</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="22"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="43" start="18" end="107">43</room>  
+            <room i_r="42" start="111" end="200">42</room>  
+            <room i_r="41" start="203" end="292">41</room>  
+            <room i_r="40" start="295" end="384">40</room>  
+            <room i_r="44" start="388" end="477">44</room>  
+            <room i_r="46" start="501" end="590">46</room>  
+            <room i_r="45" start="595" end="684">45</room>  
+            <room i_r="48" start="689" end="778">48</room>  
+            <room i_r="51" start="782" end="871">51</room>  
+            <room i_r="50" start="879" end="968">50</room>  
+            <room i_r="47" start="1054" end="1143">47</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="25"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="90" start="22" end="111">90</room>  
+            <room i_r="87" start="117" end="206">87</room>  
+            <room i_r="86" start="208" end="297">86</room>  
+            <room i_r="83" start="304" end="393">83</room>  
+            <room i_r="82" start="397" end="486">82</room>  
+            <room i_r="84" start="493" end="582">84</room>  
+            <room i_r="85" start="586" end="675">85</room>  
+            <room i_r="88" start="702" end="791">88</room>  
+            <room i_r="89" start="795" end="884">89</room>  
+            <room i_r="91" start="888" end="977">91</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle> 
+        </routes> 
+      </solution>  
+      <solution timestamp="24.05.2021 19:38:04" uuid="66f99ddb-3967-47ad-9d9c-ccd868d2b947" costs="896.0387831316908"> 
+        <results> 
+          <costs>896.0387831316908</costs>  
+          <usedVehicles>12</usedVehicles>  
+          <time>15:39</time>  
+          <unscheduledJobs>0</unscheduledJobs> 
+        </results>  
+        <config/>  
+        <routes> 
+          <vehicle id="1"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="13" start="51" end="140">13</room>  
+            <room i_r="17" start="147" end="236">17</room>  
+            <room i_r="18" start="240" end="329">18</room>  
+            <room i_r="19" start="335" end="424">19</room>  
+            <room i_r="15" start="430" end="519">15</room>  
+            <room i_r="16" start="527" end="616">16</room>  
+            <room i_r="14" start="619" end="708">14</room>  
+            <room i_r="12" start="720" end="809">12</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="2"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="87" start="85" end="174">87</room>  
+            <room i_r="86" start="176" end="265">86</room>  
+            <room i_r="83" start="272" end="361">83</room>  
+            <room i_r="82" start="405" end="494">82</room>  
+            <room i_r="84" start="503" end="592">84</room>  
+            <room i_r="85" start="600" end="689">85</room>  
+            <room i_r="88" start="697" end="786">88</room>  
+            <room i_r="89" start="792" end="881">89</room>  
+            <room i_r="91" start="888" end="977">91</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="6"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="90" start="22" end="111">90</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="7"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="81" start="49" end="138">81</room>  
+            <room i_r="78" start="143" end="232">78</room>  
+            <room i_r="76" start="235" end="324">76</room>  
+            <room i_r="71" start="330" end="419">71</room>  
+            <room i_r="70" start="427" end="516">70</room>  
+            <room i_r="73" start="520" end="609">73</room>  
+            <room i_r="77" start="618" end="707">77</room>  
+            <room i_r="79" start="709" end="798">79</room>  
+            <room i_r="80" start="819" end="908">80</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="8"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="67" start="14" end="103">67</room>  
+            <room i_r="65" start="105" end="194">65</room>  
+            <room i_r="63" start="197" end="286">63</room>  
+            <room i_r="62" start="292" end="381">62</room>  
+            <room i_r="74" start="385" end="474">74</room>  
+            <room i_r="72" start="480" end="569">72</room>  
+            <room i_r="61" start="573" end="662">61</room>  
+            <room i_r="64" start="665" end="754">64</room>  
+            <room i_r="68" start="774" end="863">68</room>  
+            <room i_r="66" start="872" end="961">66</room>  
+            <room i_r="69" start="968" end="1057">69</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="11"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="43" start="18" end="107">43</room>  
+            <room i_r="42" start="111" end="200">42</room>  
+            <room i_r="41" start="203" end="292">41</room>  
+            <room i_r="40" start="295" end="384">40</room>  
+            <room i_r="44" start="388" end="477">44</room>  
+            <room i_r="46" start="481" end="570">46</room>  
+            <room i_r="45" start="573" end="662">45</room>  
+            <room i_r="48" start="665" end="754">48</room>  
+            <room i_r="51" start="784" end="873">51</room>  
+            <room i_r="50" start="877" end="966">50</room>  
+            <room i_r="49" start="1001" end="1090">49</room>  
+            <room i_r="47" start="1093" end="1182">47</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="12"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="32" start="33" end="122">32</room>  
+            <room i_r="33" start="125" end="214">33</room>  
+            <room i_r="31" start="226" end="315">31</room>  
+            <room i_r="35" start="323" end="412">35</room>  
+            <room i_r="37" start="421" end="510">37</room>  
+            <room i_r="38" start="513" end="602">38</room>  
+            <room i_r="39" start="608" end="697">39</room>  
+            <room i_r="36" start="707" end="796">36</room>  
+            <room i_r="34" start="815" end="904">34</room>  
+            <room i_r="52" start="968" end="1057">52</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="13"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="98" start="32" end="121">98</room>  
+            <room i_r="96" start="128" end="217">96</room>  
+            <room i_r="95" start="220" end="309">95</room>  
+            <room i_r="94" start="317" end="406">94</room>  
+            <room i_r="92" start="411" end="500">92</room>  
+            <room i_r="93" start="503" end="592">93</room>  
+            <room i_r="97" start="608" end="697">97</room>  
+            <room i_r="100" start="703" end="792">100</room>  
+            <room i_r="99" start="819" end="908">99</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="15"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="57" start="36" end="125">57</room>  
+            <room i_r="55" start="128" end="217">55</room>  
+            <room i_r="54" start="223" end="312">54</room>  
+            <room i_r="53" start="319" end="408">53</room>  
+            <room i_r="56" start="413" end="502">56</room>  
+            <room i_r="58" start="505" end="594">58</room>  
+            <room i_r="60" start="598" end="687">60</room>  
+            <room i_r="59" start="699" end="788">59</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="19"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="20" start="11" end="100">20</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="22"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="24" start="75" end="164">24</room>  
+            <room i_r="25" start="169" end="258">25</room>  
+            <room i_r="27" start="261" end="350">27</room>  
+            <room i_r="29" start="358" end="447">29</room>  
+            <room i_r="30" start="453" end="542">30</room>  
+            <room i_r="28" start="546" end="635">28</room>  
+            <room i_r="26" start="637" end="726">26</room>  
+            <room i_r="23" start="732" end="821">23</room>  
+            <room i_r="22" start="825" end="914">22</room>  
+            <room i_r="21" start="964" end="1053">21</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle>  
+          <vehicle id="25"> 
+            <room start="0" end="0">0</room>  
+            <room i_r="5" start="17" end="106">5</room>  
+            <room i_r="3" start="108" end="197">3</room>  
+            <room i_r="7" start="200" end="289">7</room>  
+            <room i_r="8" start="293" end="382">8</room>  
+            <room i_r="10" start="387" end="476">10</room>  
+            <room i_r="11" start="480" end="569">11</room>  
+            <room i_r="9" start="574" end="663">9</room>  
+            <room i_r="6" start="667" end="756">6</room>  
+            <room i_r="4" start="760" end="849">4</room>  
+            <room i_r="2" start="865" end="954">2</room>  
+            <room i_r="1" start="957" end="1046">1</room>  
+            <room i_r="75" start="1050" end="1139">75</room>  
+            <room start="1236" end="1236">0</room> 
+          </vehicle> 
+        </routes> 
+      </solution>  
+      <solution timestamp="24.05.2021 19:38:05" uuid="cbdbe0b5-3435-4e29-81d1-43826c07490c" costs="855.9129112265612">
+        <results>
+          <costs>855.9129112265612</costs>
+          <usedVehicles>11</usedVehicles>
+          <time>15:41</time>
+          <unscheduledJobs>0</unscheduledJobs>
+        </results>
+        <config/>
+        <routes>
+          <vehicle id="1">
+            <room start="0" end="0">0</room>
+            <room i_r="67" start="14" end="103">67</room>
+            <room i_r="65" start="105" end="194">65</room>
+            <room i_r="63" start="197" end="286">63</room>
+            <room i_r="62" start="292" end="381">62</room>
+            <room i_r="74" start="385" end="474">74</room>
+            <room i_r="72" start="480" end="569">72</room>
+            <room i_r="61" start="573" end="662">61</room>
+            <room i_r="64" start="665" end="754">64</room>
+            <room i_r="68" start="774" end="863">68</room>
+            <room i_r="66" start="872" end="961">66</room>
+            <room i_r="69" start="968" end="1057">69</room>
+            <room start="1236" end="1236">0</room>
+          </vehicle>
+          <vehicle id="6">
+            <room start="0" end="0">0</room>
+            <room i_r="57" start="36" end="125">57</room>
+            <room i_r="55" start="128" end="217">55</room>
+            <room i_r="54" start="233" end="322">54</room>
+            <room i_r="53" start="329" end="418">53</room>
+            <room i_r="56" start="425" end="514">56</room>
+            <room i_r="58" start="517" end="606">58</room>
+            <room i_r="60" start="610" end="699">60</room>
+            <room i_r="59" start="739" end="828">59</room>
+            <room start="1236" end="1236">0</room>
+          </vehicle>
+          <vehicle id="7">
+            <room start="0" end="0">0</room>
+            <room i_r="24" start="65" end="154">24</room>
+            <room i_r="25" start="169" end="258">25</room>
+            <room i_r="27" start="261" end="350">27</room>
+            <room i_r="29" start="358" end="447">29</room>
+            <room i_r="30" start="453" end="542">30</room>
+            <room i_r="28" start="546" end="635">28</room>
+            <room i_r="26" start="637" end="726">26</room>
+            <room i_r="23" start="732" end="821">23</room>
+            <room i_r="22" start="825" end="914">22</room>
+            <room i_r="21" start="964" end="1053">21</room>
+            <room start="1236" end="1236">0</room>
+          </vehicle>
+          <vehicle id="8">
+            <room start="0" end="0">0</room>
+            <room i_r="5" start="17" end="106">5</room>
+            <room i_r="3" start="108" end="197">3</room>
+            <room i_r="7" start="200" end="289">7</room>
+            <room i_r="8" start="293" end="382">8</room>
+            <room i_r="10" start="387" end="476">10</room>
+            <room i_r="11" start="480" end="569">11</room>
+            <room i_r="9" start="574" end="663">9</room>
+            <room i_r="6" start="667" end="756">6</room>
+            <room i_r="4" start="760" end="849">4</room>
+            <room i_r="2" start="854" end="943">2</room>
+            <room i_r="1" start="966" end="1055">1</room>
+            <room i_r="75" start="1067" end="1156">75</room>
+            <room start="1236" end="1236">0</room>
+          </vehicle>
+          <vehicle id="11">
+            <room start="0" end="0">0</room>
+            <room i_r="32" start="33" end="122">32</room>
+            <room i_r="33" start="125" end="214">33</room>
+            <room i_r="31" start="221" end="310">31</room>
+            <room i_r="35" start="316" end="405">35</room>
+            <room i_r="37" start="412" end="501">37</room>
+            <room i_r="38" start="504" end="593">38</room>
+            <room i_r="39" start="599" end="688">39</room>
+            <room i_r="36" start="694" end="783">36</room>
+            <room i_r="34" start="787" end="876">34</room>
+            <room i_r="52" start="912" end="1001">52</room>
+            <room i_r="49" start="1005" end="1094">49</room>
+            <room i_r="47" start="1125" end="1214">47</room>
+            <room start="1236" end="1236">0</room>
+          </vehicle>
+          <vehicle id="12">
+            <room start="0" end="0">0</room>
+            <room i_r="43" start="18" end="107">43</room>
+            <room i_r="42" start="111" end="200">42</room>
+            <room i_r="41" start="203" end="292">41</room>
+            <room i_r="40" start="318" end="407">40</room>
+            <room i_r="44" start="413" end="502">44</room>
+            <room i_r="46" start="506" end="595">46</room>
+            <room i_r="45" start="600" end="689">45</room>
+            <room i_r="48" start="692" end="781">48</room>
+            <room i_r="51" start="784" end="873">51</room>
+            <room i_r="50" start="879" end="968">50</room>
+            <room start="1236" end="1236">0</room>
+          </vehicle>
+          <vehicle id="13">
+            <room start="0" end="0">0</room>
+            <room i_r="90" start="22" end="111">90</room>
+            <room i_r="87" start="117" end="206">87</room>
+            <room i_r="86" start="214" end="303">86</room>
+            <room i_r="83" start="312" end="401">83</room>
+            <room i_r="82" start="405" end="494">82</room>
+            <room i_r="84" start="501" end="590">84</room>
+            <room i_r="85" start="600" end="689">85</room>
+            <room i_r="88" start="693" end="782">88</room>
+            <room i_r="89" start="790" end="879">89</room>
+            <room i_r="91" start="888" end="977">91</room>
+            <room start="1236" end="1236">0</room>
+          </vehicle>
+          <vehicle id="15">
+            <room start="0" end="0">0</room>
+            <room i_r="81" start="49" end="138">81</room>
+            <room i_r="78" start="142" end="231">78</room>
+            <room i_r="76" start="234" end="323">76</room>
+            <room i_r="71" start="329" end="418">71</room>
+            <room i_r="70" start="424" end="513">70</room>
+            <room i_r="73" start="517" end="606">73</room>
+            <room i_r="77" start="611" end="700">77</room>
+            <room i_r="79" start="721" end="810">79</room>
+            <room i_r="80" start="817" end="906">80</room>
+            <room start="1236" end="1236">0</room>
+          </vehicle>
+          <vehicle id="19">
+            <room start="0" end="0">0</room>
+            <room i_r="20" start="72" end="161">20</room>
+            <room start="1236" end="1236">0</room>
+          </vehicle>
+          <vehicle id="22">
+            <room start="0" end="0">0</room>
+            <room i_r="98" start="32" end="121">98</room>
+            <room i_r="96" start="128" end="217">96</room>
+            <room i_r="95" start="220" end="309">95</room>
+            <room i_r="94" start="314" end="403">94</room>
+            <room i_r="92" start="408" end="497">92</room>
+            <room i_r="93" start="500" end="589">93</room>
+            <room i_r="97" start="595" end="684">97</room>
+            <room i_r="100" start="690" end="779">100</room>
+            <room i_r="99" start="785" end="874">99</room>
+            <room start="1236" end="1236">0</room>
+          </vehicle>
+          <vehicle id="25">
+            <room start="0" end="0">0</room>
+            <room i_r="13" start="32" end="121">13</room>
+            <room i_r="17" start="126" end="215">17</room>
+            <room i_r="18" start="219" end="308">18</room>
+            <room i_r="19" start="314" end="403">19</room>
+            <room i_r="15" start="409" end="498">15</room>
+            <room i_r="16" start="504" end="593">16</room>
+            <room i_r="14" start="596" end="685">14</room>
+            <room i_r="12" start="720" end="809">12</room>
+            <room start="1236" end="1236">0</room>
+          </vehicle>
+        </routes>
+      </solution>
+    </solutions> 
+  </instance> 
+</document>
